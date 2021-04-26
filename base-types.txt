@@ -1,0 +1,102 @@
+--- Gloves
+
+Armour Gloves (Strength)
+"Iron Gauntlets" "Taxing Gauntlets" "Plated Gauntlets" "Bronze Gauntlets" "Steel Gauntlets" "Antique Gauntlets" "Gruelling Gauntlets" "Ancient Gauntlets" "Goliath Gauntlets" "Vaal Gauntlets" "Titan Gauntlets" "Debilitation Gauntlets" "Spiked Gloves"
+
+Evasion Gloves (Dexterity)
+"Rawhide Gloves" "Goathide Gloves" "Gauche Gloves" "Deerskin Gloves" "Nubuck Gloves" "Eelskin Gloves" "Southswing Gloves" "Sharkskin Gloves" "Shagreen Gloves" "Stealth Gloves" "Gripped Gloves" "Sinistral Gloves" "Slink Gloves"
+
+Energy Shield Gloves (Intelligence)
+"Wool Gloves" "Leyline Gloves" "Velvet Gloves" "Silk Gloves" "Embroidered Gloves" "Aetherwind Gloves" "Satin Gloves" "Samite Gloves" "Conjurer Gloves" "Arcanist Gloves" "Sorcerer Gloves" "Fingerless Silk Gloves" "Nexus Gloves"
+
+Armour/Evasion Gloves (Strength/Dexterity)
+"Fishscale Gauntlets" "Ironscale Gauntlets" "Bronzescale Gauntlets" "Steelscale Gauntlets" "Serpentscale Gauntlets" "Wyrmscale Gauntlets" "Hydrascale Gauntlets" "Dragonscale Gauntlets"
+
+Armour/Energy Shield Gloves (Strength/Intelligence)
+"Chain Gloves" "Ringmail Gloves" "Mesh Gloves" "Riveted Gloves" "Zealot Gloves" "Soldier Gloves" "Legion Gloves" "Crusader Gloves" "Apothecary's Gloves"
+
+Energy Shield/Evasion Gloves (Dexterity/Intelligence)
+"Wrapped Mitts" "Strapped Mitts" "Clasped Mitts" "Trapper Mitts" "Ambush Mitts" "Carnal Mitts" "Assassin's Mitts" "Murder Mitts"
+
+--- Boots
+
+Armour Boots (Strength)
+"Iron Greaves" "Steel Greaves" "Basemetal Treads" "Plated Greaves" "Reinforced Greaves" "Antique Greaves" "Ancient Greaves" "Darksteel Treads" "Goliath Greaves" "Vaal Greaves" "Titan Greaves" "Brimstone Treads"
+
+Evasion Boots (Dexterity)
+"Rawhide Boots" "Goathide Boots" "Cloudwhisper Boots" "Deerskin Boots" "Nubuck Boots" "Eelskin Boots" "Sharkskin Boots" "Windbreak Boots" "Shagreen Boots" "Stealth Boots" "Slink Boots" "Stormrider Boots"
+
+Energy Shield Boots (Intelligence)
+"Wool Shoes" "Velvet Slippers" "Duskwalk Slippers" "Silk Slippers" "Scholar Boots" "Satin Slippers" "Samite Slippers" "Nightwind Slippers" "Conjurer Boots" "Arcanist Slippers" "Sorcerer Boots" "Dreamquest Slippers"
+
+Armour/Evasion Boots (Strength/Dexterity)
+"Leatherscale Boots" "Ironscale Boots" "Bronzescale Boots" "Steelscale Boots" "Serpentscale Boots" "Wyrmscale Boots" "Hydrascale Boots" "Dragonscale Boots" "Two-Toned Boots"
+
+Armour/Energy Shield Boots (Strength/Intelligence)
+"Chain Boots" "Ringmail Boots" "Mesh Boots" "Riveted Boots" "Zealot Boots" "Soldier Boots" "Legion Boots" "Crusader Boots" "Two-Toned Boots"
+
+Energy Shield/Evasion Boots (Dexterity/Intelligence)
+"Wrapped Boots" "Strapped Boots" "Clasped Boots" "Shackled Boots" "Trapper Boots" "Ambush Boots" "Carnal Boots" "Assassin's Boots" "Murder Boots" "Blessed Boots" "Two-Toned Boots"
+
+--- Body Armour
+
+Armour Body Armours (Strength)
+"Plate Vest" "Chestplate" "Copper Plate" "War Plate" "Full Plate" "Arena Plate" "Lordly Plate" "Bronze Plate" "Battle Plate" "Sun Plate" "Colosseum Plate" "Majestic Plate" "Golden Plate" "Crusader Plate" "Astral Plate" "Gladiator Plate" "Glorious Plate"
+
+Evasion Body Armours (Dexterity)
+"Shabby Jerkin" "Strapped Leather" "Buckskin Tunic" "Wild Leather" "Full Leather" "Sun Leather" "Thief's Garb" "Eelskin Tunic" "Frontier Leather" "Glorious Leather" "Coronal Leather" "Cutthroat's Garb" "Sharkskin Tunic" "Destiny Leather" "Exquisite Leather" "Zodiac Leather" "Assassin's Garb"
+
+Energy Shield Body Armours (Intelligence)
+"Simple Robe" "Silken Vest" "Scholar's Robe" "Silken Garb" "Mage's Vestment" "Silk Robe" "Cabalist Regalia" "Sage's Robe" "Silken Wrap" "Conjurer's Vestment" "Spidersilk Robe" "Destroyer Regalia" "Savant's Robe" "Necromancer Silks" "Occultist's Vestment" "Widowsilk Robe" "Vaal Regalia"
+
+Armour/Evasion Body Armours (Strength/Dexterity)
+"Scale Vest" "Light Brigandine" "Scale Doublet" "Infantry Brigandine" "Full Scale Armour" "Soldier's Brigandine" "Field Lamellar" "Wyrmscale Doublet" "Hussar Brigandine" "Full Wyrmscale" "Commander's Brigandine" "Battle Lamellar" "Dragonscale Doublet" "Desert Brigandine" "Full Dragonscale" "General's Brigandine" "Triumphant Lamellar"
+
+Armour/Energy Shield Body Armours (Strength/Intelligence)
+"Chainmail Vest" "Chainmail Tunic" "Ringmail Coat" "Chainmail Doublet" "Full Ringmail" "Full Chainmail" "Holy Chainmail" "Latticed Ringmail" "Crusader Chainmail" "Ornate Ringmail" "Chain Hauberk" "Devout Chainmail" "Loricated Ringmail" "Conquest Chainmail" "Elegant Ringmail" "Saint's Hauberk" "Saintly Chainmail"
+
+Energy Shield/Evasion Body Armours (Dexterity/Intelligence)
+"Padded Vest" "Oiled Vest" "Padded Jacket" "Oiled Coat" "Scarlet Raiment" "Waxed Garb" "Bone Armour" "Quilted Jacket" "Sleek Coat" "Crimson Raiment" "Lacquered Garb" "Crypt Armour" "Sentinel Jacket" "Varnished Coat" "Blood Raiment" "Sadist Garb" "Carnal Armour"
+
+Armour/Evasion/Energy Shield Body Armours (Strength/Dexterity/Intelligence)
+"Grasping Mail" "Sacrificial Garb"
+
+--- Helmets
+
+Armour Helmets (Strength)
+"Iron Hat" "Cone Helmet" "Barbute Helmet" "Close Helmet" "Gladiator Helmet" "Reaver Helmet" "Siege Helmet" "Samnite Helmet" "Ezomyte Burgonet" "Royal Burgonet" "Eternal Burgonet"
+
+Evasion Helmets (Dexterity)
+"Leather Cap" "Tricorne" "Leather Hood" "Wolf Pelt" "Hunter Hood" "Noble Tricorne" "Ursine Pelt" "Silken Hood" "Sinner Tricorne" "Lion Pelt"
+
+Energy Shield Helmets (Intelligence)
+"Vine Circlet" "Iron Circlet" "Torture Cage" "Tribal Circlet" "Bone Circlet" "Lunaris Circlet" "Steel Circlet" "Necromancer Circlet" "Solaris Circlet" "Mind Cage" "Hubris Circlet"
+
+Armour/Evasion Helmets (Strength/Dexterity)
+"Battered Helm" "Sallet" "Sorrow Mask" "Visored Sallet" "Gilded Sallet" "Secutor Helm" "Fencer Helm" "Atonement Mask" "Lacquered Helmet" "Fluted Bascinet" "Pig-Faced Bascinet" "Nightmare Bascinet" "Penitent Mask"
+
+Armour/Energy Shield Helmets (Strength/Intelligence)
+"Rusted Coif" "Soldier Helmet" "Imp Crown" "Great Helmet" "Crusader Helmet" "Aventail Helmet" "Zealot Helmet" "Demon Crown" "Great Crown" "Magistrate Crown" "Prophet Crown" "Praetor Crown" "Bone Helmet" "Archdemon Crown"
+
+Energy Shield/Evasion Helmets (Dexterity/Intelligence)
+"Scare Mask" "Plague Mask" "Gale Crown" "Iron Mask" "Festival Mask" "Golden Mask" "Raven Mask" "Callous Mask" "Winter Crown" "Regicide Mask" "Harlequin Mask" "Vaal Mask" "Deicide Mask" "Blizzard Crown"
+
+--- Shields
+
+Armour Shields (Strength)
+"Splintered Tower Shield" "Corroded Tower Shield" "Rawhide Tower Shield" "Cedar Tower Shield" "Copper Tower Shield" "Exothermic Tower Shield" "Reinforced Tower Shield" "Painted Tower Shield" "Buckskin Tower Shield" "Mahogany Tower Shield" "Bronze Tower Shield" "Magmatic Tower Shield" "Girded Tower Shield" "Crested Tower Shield" "Shagreen Tower Shield" "Ebony Tower Shield" "Ezomyte Tower Shield" "Colossal Tower Shield" "Heat-attuned Tower Shield" "Pinnacle Tower Shield"
+
+Evasion Shields (Dexterity)
+"Goathide Buckler" "Pine Buckler" "Painted Buckler" "Hammered Buckler" "War Buckler" "Endothermic Buckler" "Gilded Buckler" "Oak Buckler" "Enameled Buckler" "Corrugated Buckler" "Battle Buckler" "Polar Buckler" "Golden Buckler" "Ironwood Buckler" "Lacquered Buckler" "Vaal Buckler" "Crusader Buckler" "Imperial Buckler" "Cold-attuned Buckler"
+
+Energy Shield Shields (Intelligence)
+"Twig Spirit Shield" "Yew Spirit Shield" "Bone Spirit Shield" "Tarnished Spirit Shield" "Jingling Spirit Shield" "Exhausting Spirit Shield" "Brass Spirit Shield" "Walnut Spirit Shield" "Ivory Spirit Shield" "Ancient Spirit Shield" "Chiming Spirit Shield" "Subsuming Spirit Shield" "Thorium Spirit Shield" "Lacewood Spirit Shield" "Fossilised Spirit Shield" "Vaal Spirit Shield" "Harmonic Spirit Shield" "Titanium Spirit Shield" "Transfer-attuned Spirit Shield"
+
+Armour/Evasion Shields (Strength/Dexterity)
+"Rotted Round Shield" "Fir Round Shield" "Studded Round Shield" "Scarlet Round Shield" "Splendid Round Shield" "Maple Round Shield" "Spiked Round Shield" "Crimson Round Shield" "Baroque Round Shield" "Teak Round Shield" "Spiny Round Shield" "Cardinal Round Shield" "Elegant Round Shield"
+
+Armour/Energy Shield Shields (Strength/Intelligence)
+"Plank Kite Shield" "Linden Kite Shield" "Reinforced Kite Shield" "Layered Kite Shield" "Ceremonial Kite Shield" "Etched Kite Shield" "Steel Kite Shield" "Laminated Kite Shield" "Angelic Kite Shield" "Branded Kite Shield" "Champion Kite Shield" "Mosaic Kite Shield" "Archon Kite Shield"
+
+Energy Shield/Evasion Shields (Dexterity/Intelligence)
+"Spiked Bundle" "Driftwood Spiked Shield" "Alloyed Spiked Shield" "Burnished Spiked Shield" "Ornate Spiked Shield" "Redwood Spiked Shield" "Compound Spiked Shield" "Polished Spiked Shield" "Sovereign Spiked Shield" "Alder Spiked Shield" "Ezomyte Spiked Shield" "Mirrored Spiked Shield" "Supreme Spiked Shield"
