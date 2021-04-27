@@ -21,6 +21,7 @@ Show
 
 Show
 	BaseType "Rustic Sash"
+	Rarity Normal
 	SetBorderColor 100 100 0 255
 
 Show
