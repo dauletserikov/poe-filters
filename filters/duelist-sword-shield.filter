@@ -69,10 +69,6 @@ Show
 Hide
 	Class "Claws" "Daggers" "Wands" "Thrusting One Hand Swords" "One Hand Axes" "One Hand Maces" "Bows" "Staves" "Two Hand" "Quivers" "Sceptres" "Warstaves"
 
-# Belts
-Hide
-	BaseType "Chain Belt"
-
 # Gloves
 Hide
 	BaseType "Wool Gloves" "Leyline Gloves" "Velvet Gloves" "Silk Gloves" "Embroidered Gloves" "Aetherwind Gloves" "Satin Gloves" "Samite Gloves" "Conjurer Gloves" "Arcanist Gloves" "Sorcerer Gloves" "Fingerless Silk Gloves" "Nexus Gloves" "Chain Gloves" "Ringmail Gloves" "Mesh Gloves" "Riveted Gloves" "Zealot Gloves" "Soldier Gloves" "Legion Gloves" "Crusader Gloves" "Apothecary's Gloves" "Wrapped Mitts" "Strapped Mitts" "Clasped Mitts" "Trapper Mitts" "Ambush Mitts" "Carnal Mitts" "Assassin's Mitts" "Murder Mitts"
