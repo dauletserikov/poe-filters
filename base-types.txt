@@ -36,7 +36,7 @@ Armour/Energy Shield Boots (Strength/Intelligence)
 "Chain Boots" "Ringmail Boots" "Mesh Boots" "Riveted Boots" "Zealot Boots" "Soldier Boots" "Legion Boots" "Crusader Boots" "Two-Toned Boots"
 
 Energy Shield/Evasion Boots (Dexterity/Intelligence)
-"Wrapped Boots" "Strapped Boots" "Clasped Boots" "Shackled Boots" "Trapper Boots" "Ambush Boots" "Carnal Boots" "Assassin's Boots" "Murder Boots" "Blessed Boots" "Two-Toned Boots"
+"Wrapped Boots" "Strapped Boots" "Clasped Boots" "Shackled Boots" "Trapper Boots" "Ambush Boots" "Carnal Boots" "Assassin's Boots" "Murder Boots" "Fugitive Boots" "Two-Toned Boots"
 
 --- Body Armour
 
@@ -100,3 +100,20 @@ Armour/Energy Shield Shields (Strength/Intelligence)
 
 Energy Shield/Evasion Shields (Dexterity/Intelligence)
 "Spiked Bundle" "Driftwood Spiked Shield" "Alloyed Spiked Shield" "Burnished Spiked Shield" "Ornate Spiked Shield" "Redwood Spiked Shield" "Compound Spiked Shield" "Polished Spiked Shield" "Sovereign Spiked Shield" "Alder Spiked Shield" "Ezomyte Spiked Shield" "Mirrored Spiked Shield" "Supreme Spiked Shield"
+
+--- new in 3.15
+
+Helmet
+Runic Helm
+Runic Crest
+Runic Crown
+
+Boots
+Runic Greaves
+Runic Sollerets
+Runic Sabatons
+
+Gloves
+Runic Gloves
+Runic Gages
+Runic Gauntlets
