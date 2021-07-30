@@ -21,12 +21,23 @@ Show
 	SetBorderColor 0 255 0 255
 
 Show
+	Quality > 0
+	Class "Gems"
+	SetBorderColor 0 255 0 255
+
+Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Quality >= 20
 	SetBorderColor 0 255 0 255
 
 Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Quality >= 16
+	SetBorderColor 255 255 0 255
+
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Rarity Normal
 	SetBorderColor 255 255 0 255
 
 Show
@@ -67,16 +78,16 @@ Hide
 
 # Gloves
 Hide
-	BaseType "Rawhide Gloves" "Goathide Gloves" "Gauche Gloves" "Deerskin Gloves" "Nubuck Gloves" "Eelskin Gloves" "Southswing Gloves" "Sharkskin Gloves" "Shagreen Gloves" "Stealth Gloves" "Gripped Gloves" "Sinistral Gloves" "Slink Gloves" "Wool Gloves" "Leyline Gloves" "Velvet Gloves" "Silk Gloves" "Embroidered Gloves" "Aetherwind Gloves" "Satin Gloves" "Samite Gloves" "Conjurer Gloves" "Arcanist Gloves" "Sorcerer Gloves" "Fingerless Silk Gloves" "Nexus Gloves" "Chain Gloves" "Ringmail Gloves" "Mesh Gloves" "Riveted Gloves" "Zealot Gloves" "Soldier Gloves" "Legion Gloves" "Crusader Gloves" "Apothecary's Gloves" "Wrapped Mitts" "Strapped Mitts" "Clasped Mitts" "Trapper Mitts" "Ambush Mitts" "Carnal Mitts" "Assassin's Mitts" "Murder Mitts"
+	BaseType "Rawhide Gloves" "Goathide Gloves" "Gauche Gloves" "Deerskin Gloves" "Nubuck Gloves" "Eelskin Gloves" "Southswing Gloves" "Sharkskin Gloves" "Shagreen Gloves" "Stealth Gloves" "Gripped Gloves" "Sinistral Gloves" "Slink Gloves" "Wool Gloves" "Leyline Gloves" "Velvet Gloves" "Silk Gloves" "Embroidered Gloves" "Aetherwind Gloves" "Satin Gloves" "Samite Gloves" "Conjurer Gloves" "Arcanist Gloves" "Sorcerer Gloves" "Fingerless Silk Gloves" "Nexus Gloves" "Chain Gloves" "Ringmail Gloves" "Mesh Gloves" "Riveted Gloves" "Zealot Gloves" "Soldier Gloves" "Legion Gloves" "Crusader Gloves" "Apothecary's Gloves" "Wrapped Mitts" "Strapped Mitts" "Clasped Mitts" "Trapper Mitts" "Ambush Mitts" "Carnal Mitts" "Assassin's Mitts" "Murder Mitts" "Fishscale Gauntlets" "Ironscale Gauntlets" "Bronzescale Gauntlets" "Steelscale Gauntlets" "Serpentscale Gauntlets" "Wyrmscale Gauntlets" "Hydrascale Gauntlets" "Dragonscale Gauntlets"
 
 # Boots
 Hide
-	BaseType "Rawhide Boots" "Goathide Boots" "Cloudwhisper Boots" "Deerskin Boots" "Nubuck Boots" "Eelskin Boots" "Sharkskin Boots" "Windbreak Boots" "Shagreen Boots" "Stealth Boots" "Slink Boots" "Stormrider Boots" "Wool Shoes" "Velvet Slippers" "Duskwalk Slippers" "Silk Slippers" "Scholar Boots" "Satin Slippers" "Samite Slippers" "Nightwind Slippers" "Conjurer Boots" "Arcanist Slippers" "Sorcerer Boots" "Dreamquest Slippers" "Chain Boots" "Ringmail Boots" "Mesh Boots" "Riveted Boots" "Zealot Boots" "Soldier Boots" "Legion Boots" "Crusader Boots" "Two-Toned Boots" "Wrapped Boots" "Strapped Boots" "Clasped Boots" "Shackled Boots" "Trapper Boots" "Ambush Boots" "Carnal Boots" "Assassin's Boots" "Murder Boots" "Fugitive Boots" "Two-Toned Boots"
+	BaseType "Rawhide Boots" "Goathide Boots" "Cloudwhisper Boots" "Deerskin Boots" "Nubuck Boots" "Eelskin Boots" "Sharkskin Boots" "Windbreak Boots" "Shagreen Boots" "Stealth Boots" "Slink Boots" "Stormrider Boots" "Wool Shoes" "Velvet Slippers" "Duskwalk Slippers" "Silk Slippers" "Scholar Boots" "Satin Slippers" "Samite Slippers" "Nightwind Slippers" "Conjurer Boots" "Arcanist Slippers" "Sorcerer Boots" "Dreamquest Slippers" "Chain Boots" "Ringmail Boots" "Mesh Boots" "Riveted Boots" "Zealot Boots" "Soldier Boots" "Legion Boots" "Crusader Boots" "Two-Toned Boots" "Wrapped Boots" "Strapped Boots" "Clasped Boots" "Shackled Boots" "Trapper Boots" "Ambush Boots" "Carnal Boots" "Assassin's Boots" "Murder Boots" "Fugitive Boots" "Two-Toned Boots" "Leatherscale Boots" "Ironscale Boots" "Bronzescale Boots" "Steelscale Boots" "Serpentscale Boots" "Wyrmscale Boots" "Hydrascale Boots" "Dragonscale Boots" "Two-Toned Boots"
 
 # Armor
 Hide
-	BaseType "Shabby Jerkin" "Strapped Leather" "Buckskin Tunic" "Wild Leather" "Full Leather" "Sun Leather" "Thief's Garb" "Eelskin Tunic" "Frontier Leather" "Glorious Leather" "Coronal Leather" "Cutthroat's Garb" "Sharkskin Tunic" "Destiny Leather" "Exquisite Leather" "Zodiac Leather" "Assassin's Garb" "Simple Robe" "Silken Vest" "Scholar's Robe" "Silken Garb" "Mage's Vestment" "Silk Robe" "Cabalist Regalia" "Sage's Robe" "Silken Wrap" "Conjurer's Vestment" "Spidersilk Robe" "Destroyer Regalia" "Savant's Robe" "Necromancer Silks" "Occultist's Vestment" "Widowsilk Robe" "Vaal Regalia" "Chainmail Vest" "Chainmail Tunic" "Ringmail Coat" "Chainmail Doublet" "Full Ringmail" "Full Chainmail" "Holy Chainmail" "Latticed Ringmail" "Crusader Chainmail" "Ornate Ringmail" "Chain Hauberk" "Devout Chainmail" "Loricated Ringmail" "Conquest Chainmail" "Elegant Ringmail" "Saint's Hauberk" "Saintly Chainmail" "Padded Vest" "Oiled Vest" "Padded Jacket" "Oiled Coat" "Scarlet Raiment" "Waxed Garb" "Bone Armour" "Quilted Jacket" "Sleek Coat" "Crimson Raiment" "Lacquered Garb" "Crypt Armour" "Sentinel Jacket" "Varnished Coat" "Blood Raiment" "Sadist Garb" "Carnal Armour"
+	BaseType "Shabby Jerkin" "Strapped Leather" "Buckskin Tunic" "Wild Leather" "Full Leather" "Sun Leather" "Thief's Garb" "Eelskin Tunic" "Frontier Leather" "Glorious Leather" "Coronal Leather" "Cutthroat's Garb" "Sharkskin Tunic" "Destiny Leather" "Exquisite Leather" "Zodiac Leather" "Assassin's Garb" "Simple Robe" "Silken Vest" "Scholar's Robe" "Silken Garb" "Mage's Vestment" "Silk Robe" "Cabalist Regalia" "Sage's Robe" "Silken Wrap" "Conjurer's Vestment" "Spidersilk Robe" "Destroyer Regalia" "Savant's Robe" "Necromancer Silks" "Occultist's Vestment" "Widowsilk Robe" "Vaal Regalia" "Chainmail Vest" "Chainmail Tunic" "Ringmail Coat" "Chainmail Doublet" "Full Ringmail" "Full Chainmail" "Holy Chainmail" "Latticed Ringmail" "Crusader Chainmail" "Ornate Ringmail" "Chain Hauberk" "Devout Chainmail" "Loricated Ringmail" "Conquest Chainmail" "Elegant Ringmail" "Saint's Hauberk" "Saintly Chainmail" "Padded Vest" "Oiled Vest" "Padded Jacket" "Oiled Coat" "Scarlet Raiment" "Waxed Garb" "Bone Armour" "Quilted Jacket" "Sleek Coat" "Crimson Raiment" "Lacquered Garb" "Crypt Armour" "Sentinel Jacket" "Varnished Coat" "Blood Raiment" "Sadist Garb" "Carnal Armour" "Scale Vest" "Light Brigandine" "Scale Doublet" "Infantry Brigandine" "Full Scale Armour" "Soldier's Brigandine" "Field Lamellar" "Wyrmscale Doublet" "Hussar Brigandine" "Full Wyrmscale" "Commander's Brigandine" "Battle Lamellar" "Dragonscale Doublet" "Desert Brigandine" "Full Dragonscale" "General's Brigandine" "Triumphant Lamellar"
 
 # Helmets
 Hide
-	BaseType "Leather Cap" "Tricorne" "Leather Hood" "Wolf Pelt" "Hunter Hood" "Noble Tricorne" "Ursine Pelt" "Silken Hood" "Sinner Tricorne" "Lion Pelt" "Vine Circlet" "Iron Circlet" "Torture Cage" "Tribal Circlet" "Bone Circlet" "Lunaris Circlet" "Steel Circlet" "Necromancer Circlet" "Solaris Circlet" "Mind Cage" "Hubris Circlet" "Rusted Coif" "Soldier Helmet" "Imp Crown" "Great Helmet" "Crusader Helmet" "Aventail Helmet" "Zealot Helmet" "Demon Crown" "Great Crown" "Magistrate Crown" "Prophet Crown" "Praetor Crown" "Bone Helmet" "Archdemon Crown" "Scare Mask" "Plague Mask" "Gale Crown" "Iron Mask" "Festival Mask" "Golden Mask" "Raven Mask" "Callous Mask" "Winter Crown" "Regicide Mask" "Harlequin Mask" "Vaal Mask" "Deicide Mask" "Blizzard Crown"
+	BaseType "Leather Cap" "Tricorne" "Leather Hood" "Wolf Pelt" "Hunter Hood" "Noble Tricorne" "Ursine Pelt" "Silken Hood" "Sinner Tricorne" "Lion Pelt" "Vine Circlet" "Iron Circlet" "Torture Cage" "Tribal Circlet" "Bone Circlet" "Lunaris Circlet" "Steel Circlet" "Necromancer Circlet" "Solaris Circlet" "Mind Cage" "Hubris Circlet" "Rusted Coif" "Soldier Helmet" "Imp Crown" "Great Helmet" "Crusader Helmet" "Aventail Helmet" "Zealot Helmet" "Demon Crown" "Great Crown" "Magistrate Crown" "Prophet Crown" "Praetor Crown" "Bone Helmet" "Archdemon Crown" "Scare Mask" "Plague Mask" "Gale Crown" "Iron Mask" "Festival Mask" "Golden Mask" "Raven Mask" "Callous Mask" "Winter Crown" "Regicide Mask" "Harlequin Mask" "Vaal Mask" "Deicide Mask" "Blizzard Crown" "Battered Helm" "Sallet" "Sorrow Mask" "Visored Sallet" "Gilded Sallet" "Secutor Helm" "Fencer Helm" "Atonement Mask" "Lacquered Helmet" "Fluted Bascinet" "Pig-Faced Bascinet" "Nightmare Bascinet" "Penitent Mask"
