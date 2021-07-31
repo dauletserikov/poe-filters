@@ -11,11 +11,6 @@ Show
 	SetBorderColor 0 255 0 255
 
 Show
-	BaseType "Rustic Sash"
-	Rarity >= Rare
-	SetBorderColor 0 255 0 255
-
-Show
 	Quality > 0
 	Class "Flasks"
 	SetBorderColor 0 255 0 255
@@ -39,6 +34,21 @@ Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Rarity Normal
 	SetBorderColor 255 255 0 255
+
+Show
+	BaseType "Rustic Sash"
+	Rarity >= Rare
+	SetBorderColor 0 255 0 255
+
+Show
+    ItemLevel >= 75
+    Rarity Rare
+    SetBorderColor 0 0 255 255
+
+Show
+    ItemLevel >= 60
+    Rarity Rare
+    SetBorderColor 255 0 0 255
 
 Show
 	Rarity >= Rare
