@@ -43,11 +43,13 @@ Show
 Show
     ItemLevel >= 75
     Rarity Rare
+	Identified False
     SetBorderColor 0 0 255 255
 
 Show
     ItemLevel >= 60
     Rarity Rare
+	Identified False
     SetBorderColor 255 0 0 255
 
 Show
