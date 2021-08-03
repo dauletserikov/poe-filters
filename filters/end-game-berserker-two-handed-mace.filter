@@ -1,116 +1,94 @@
-# отображать дорогие айтемы
-# отфильтровать ненужные айтемы
-# ?? amulets ??
-# добавить рарки для моего персонажа
-
 # Vendor recipes
-
 Show
 	SocketGroup >= 3RGB
-	SetBorderColor 0 255 0 255
-
+	SetBorderColor 74 230 58 255
 Show
 	Sockets >= 6
-	SetBorderColor 0 255 0 255
-
+	SetBorderColor 74 230 58 255
 Show
 	Quality >= 20
-	SetBorderColor 0 255 0 255
-
+	SetBorderColor 74 230 58 255
 Show
 	Quality > 0
 	Class "Flasks"
-	SetBorderColor 0 255 0 255
-
+	SetBorderColor 74 230 58 255
 Show
 	Quality > 0
 	Class "Gems"
-	SetBorderColor 0 255 0 255
-
+	SetBorderColor 74 230 58 255
 Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Quality >= 20
-	SetBorderColor 0 255 0 255
-
+	SetBorderColor 74 230 58 255
 Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Quality >= 16
-	SetBorderColor 255 255 0 255
-
+	SetBorderColor 74 230 58 255
 Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Rarity Normal
-	SetBorderColor 255 255 0 255
-
-# Vendor recipes end
+	SetBorderColor 74 230 58 255
 
 # Rare items
-
+Show
+	BaseType "Void Fangs" "Pneumatic Dagger" "Convoking Wand" "Accumulator Wand" "Anarchic Spiritblade" "Psychotic Axe" "Boom Mace" "Solarine Bow" "Battery Staff" "Banishing Blade" "Apex Cleaver" "Impact Force Propagator" "Debilitation Gauntlets" "Sinistral Gloves" "Nexus Gloves" "Brimstone Treads" "Stormrider Boots" "Dreamquest Slippers" "Grasping Mail" "Sacrificial Garb" "Penitent Mask" "Archdemon Crown" "Blizzard Crown" "Heat-attuned Tower Shield" "Cold-attuned Buckler" "Transfer-attuned Spirit Shield" "Alternating Sceptre" "Infernal Blade" "Eventuality Rod" "Vermillion Ring" "Geodesic Ring" "Cogwork Ring" "Rot Head Talisman" "Astrolabe Amulet" "Simplex Amulet" "Mechalarm Belt" "Micro-Distillery Belt" "Stygian Vise"
+	SetBorderColor 175 96 37 255
 Show
 	Rarity Unique
-
 Show
 	AnyEnchantment True
-
 Show
 	AlternateQuality True
-
 Show
 	Replica True
-
 Show
 	Corrupted True
-
 Show
 	ElderItem True
-
 Show
 	ShaperItem True
-
 Show
 	HasInfluence Shaper Elder Crusader Hunter Redeemer Warlord
-
 Show
 	FracturedItem True
-
 Show
 	SynthesisedItem True
 
-# Rare items end
-
-# Flasks
-
+# Armor and weapons
 Show
-	BaseType "Eternal Life Flask" "Eternal Mana Flask" "Hallowed Hybrid Flask"
-	Rarity Magic
-
-Hide
-	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
-
-# Flasks end
-
-# Rings
-
-Hide
-	Class "Rings"
-	Rarity Magic
-
-# Rings end
-
-# Gems
-
-Hide
-	Class "Gems"
-
-# Gems end
-
-# Equipment
-
-# Rare items
-Show
-	BaseType "Void Fangs" "Pneumatic Dagger" "Convoking Wand" "Accumulator Wand" "Anarchic Spiritblade" "Psychotic Axe" "Boom Mace" "Solarine Bow" "Battery Staff" "Banishing Blade" "Apex Cleaver" "Impact Force Propagator" "Sinistral Gloves" "Brimstone Treads" "Stormrider Boots" "Dreamquest Slippers" "Grasping Mail" "Sacrificial Garb" "Penitent Mask" "Archdemon Crown" "Blizzard Crown" "Heat-attuned Tower Shield" "Cold-attuned Buckler" "Transfer-attuned Spirit Shield" "Alternating Sceptre" "Infernal Blade" "Eventuality Rod"
-
+	BaseType "Titan Greaves" "Glorious Plate" "Astral Plate" "Royal Burgonet" "Eternal Burgonet"
+	Rarity Rare
 Hide
 	Class "Claws" "Daggers" "Wands" "Swords" "Axes" "Maces" "Bows" "Staves" "Quivers" "Gloves" "Shields" "Sceptres" "Rune Daggers" "Warstaves" "Boots" "Body Armours" "Helmets"
 
-# Equipment end
+# Rings
+Show
+	BaseType "Coral Ring" "Iron Ring" "Sapphire Ring" "Topaz Ring" "Ruby Ring" "Gold Ring" "Two-Stone Ring" "Amethyst Ring" "Prismatic Ring" "Steel Ring"
+	Rarity Rare
+Hide
+	Class "Rings"
+
+# Amulets
+Show
+	BaseType "Lapis Amulet" "Gold Amulet" "Agate Amulet" "Turquoise Amulet" "Onyx Amulet" "Breakrib Talisman" "Fangjaw Talisman" "Longtooth Talisman" "Mandible Talisman" "Rotfeather Talisman" "Spinefuse Talisman" "Three Rat Talisman" "Writhing Talisman"
+	Rarity Rare
+Hide
+	Class "Amulets"
+
+# Belts
+Show
+	BaseType "Rustic Sash" "Leather Belt" "Studded Belt"
+	Rarity Rare
+Hide
+	Class "Belts"
+
+# Flasks
+Show
+	BaseType "Eternal Life Flask" "Eternal Mana Flask" "Hallowed Hybrid Flask"
+	Rarity Magic
+Hide
+	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
+
+# Gems
+Hide
+	Class "Gems"
