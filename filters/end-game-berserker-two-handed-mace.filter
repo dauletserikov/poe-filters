@@ -54,7 +54,7 @@ Show
 Show
 	SynthesisedItem True
 
-# Armor and weapons
+# Armour and weapons
 Show
 	BaseType "Titan Greaves" "Glorious Plate" "Astral Plate" "Royal Burgonet" "Eternal Burgonet"
 	Rarity Rare
@@ -90,5 +90,9 @@ Hide
 	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
 
 # Gems
+Show
+	BaseType "Awakened"
+	Class "Gems"
+	SetBorderColor 175 96 37 255
 Hide
 	Class "Gems"
