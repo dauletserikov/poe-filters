@@ -2,62 +2,82 @@
 Show
 	SocketGroup >= 3RGB
 	SetBorderColor 74 230 58 255
+	SetFontSize 45
 Show
 	Sockets >= 6
 	SetBorderColor 74 230 58 255
+	SetFontSize 45
 Show
 	Quality >= 20
 	SetBorderColor 74 230 58 255
+	SetFontSize 45
 Show
 	Quality > 0
 	Class "Flasks"
 	SetBorderColor 74 230 58 255
+	SetFontSize 45
 Show
 	Quality > 0
 	Class "Gems"
 	SetBorderColor 74 230 58 255
+	SetFontSize 45
 Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Quality >= 20
 	SetBorderColor 74 230 58 255
+	SetFontSize 45
 Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Quality >= 16
 	SetBorderColor 74 230 58 255
+	SetFontSize 45
 Show
 	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
 	Rarity Normal
 	SetBorderColor 74 230 58 255
+	SetFontSize 45
 
 # Rare items
 Show
 	BaseType "Void Fangs" "Pneumatic Dagger" "Convoking Wand" "Accumulator Wand" "Anarchic Spiritblade" "Psychotic Axe" "Boom Mace" "Solarine Bow" "Battery Staff" "Banishing Blade" "Apex Cleaver" "Impact Force Propagator" "Debilitation Gauntlets" "Sinistral Gloves" "Nexus Gloves" "Brimstone Treads" "Stormrider Boots" "Dreamquest Slippers" "Grasping Mail" "Sacrificial Garb" "Penitent Mask" "Archdemon Crown" "Blizzard Crown" "Heat-attuned Tower Shield" "Cold-attuned Buckler" "Transfer-attuned Spirit Shield" "Alternating Sceptre" "Infernal Blade" "Eventuality Rod" "Vermillion Ring" "Geodesic Ring" "Cogwork Ring" "Rot Head Talisman" "Astrolabe Amulet" "Simplex Amulet" "Mechalarm Belt" "Micro-Distillery Belt" "Stygian Vise"
 	SetBorderColor 175 96 37 255
+	SetFontSize 45
 Show
 	Rarity Unique
+	SetFontSize 45
 Show
 	AnyEnchantment True
+	SetFontSize 45
 Show
 	AlternateQuality True
+	SetFontSize 45
 Show
 	Replica True
+	SetFontSize 45
 Show
 	Corrupted True
+	SetFontSize 45
 Show
 	ElderItem True
+	SetFontSize 45
 Show
 	ShaperItem True
+	SetFontSize 45
 Show
 	HasInfluence Shaper Elder Crusader Hunter Redeemer Warlord
+	SetFontSize 45
 Show
 	FracturedItem True
+	SetFontSize 45
 Show
 	SynthesisedItem True
+	SetFontSize 45
 
 # Armour and weapons
 Show
 	BaseType "Titan Greaves" "Glorious Plate" "Astral Plate" "Royal Burgonet" "Eternal Burgonet"
 	Rarity Rare
+	SetFontSize 45
 Hide
 	Class "Claws" "Daggers" "Wands" "Swords" "Axes" "Maces" "Bows" "Staves" "Quivers" "Gloves" "Shields" "Sceptres" "Rune Daggers" "Warstaves" "Boots" "Body Armours" "Helmets"
 
@@ -65,6 +85,7 @@ Hide
 Show
 	BaseType "Coral Ring" "Iron Ring" "Sapphire Ring" "Topaz Ring" "Ruby Ring" "Gold Ring" "Two-Stone Ring" "Amethyst Ring" "Prismatic Ring" "Steel Ring"
 	Rarity Rare
+	SetFontSize 45
 Hide
 	Class "Rings"
 
@@ -72,6 +93,7 @@ Hide
 Show
 	BaseType "Lapis Amulet" "Gold Amulet" "Agate Amulet" "Turquoise Amulet" "Onyx Amulet" "Breakrib Talisman" "Fangjaw Talisman" "Longtooth Talisman" "Mandible Talisman" "Rotfeather Talisman" "Spinefuse Talisman" "Three Rat Talisman" "Writhing Talisman"
 	Rarity Rare
+	SetFontSize 45
 Hide
 	Class "Amulets"
 
@@ -79,6 +101,7 @@ Hide
 Show
 	BaseType "Rustic Sash" "Leather Belt" "Studded Belt"
 	Rarity Rare
+	SetFontSize 45
 Hide
 	Class "Belts"
 
@@ -86,6 +109,7 @@ Hide
 Show
 	BaseType "Eternal Life Flask" "Eternal Mana Flask"
 	Rarity Magic
+	SetFontSize 45
 Hide
 	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
 
@@ -94,5 +118,10 @@ Show
 	BaseType "Awakened"
 	Class "Gems"
 	SetBorderColor 175 96 37 255
+	SetFontSize 45
 Hide
 	Class "Gems"
+
+# Other
+Show
+	SetFontSize 45
