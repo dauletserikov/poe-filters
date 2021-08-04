@@ -85,6 +85,7 @@ Hide
 # Flasks
 Show
 	BaseType "Eternal Life Flask" "Eternal Mana Flask"
+	Rarity Magic
 Hide
 	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
 
