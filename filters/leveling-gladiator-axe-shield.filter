@@ -1,0 +1,132 @@
+# Vendor recipes
+Show
+	SocketGroup >= 3RGB
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+Show
+	Sockets >= 6
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+Show
+	Quality >= 20
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+Show
+	Quality > 0
+	Class "Flasks"
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+Show
+	Quality > 0
+	Class "Gems"
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Quality >= 20
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Quality >= 16
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Rarity Normal
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+Show
+	BaseType "Rustic Sash"
+	Rarity Rare
+	SetBorderColor 74 230 58 255
+	SetFontSize 45
+
+# Rare items
+Show
+	BaseType "Void Fangs" "Pneumatic Dagger" "Convoking Wand" "Accumulator Wand" "Anarchic Spiritblade" "Psychotic Axe" "Boom Mace" "Solarine Bow" "Battery Staff" "Banishing Blade" "Apex Cleaver" "Impact Force Propagator" "Debilitation Gauntlets" "Sinistral Gloves" "Nexus Gloves" "Brimstone Treads" "Stormrider Boots" "Dreamquest Slippers" "Grasping Mail" "Sacrificial Garb" "Penitent Mask" "Archdemon Crown" "Blizzard Crown" "Heat-attuned Tower Shield" "Cold-attuned Buckler" "Transfer-attuned Spirit Shield" "Alternating Sceptre" "Infernal Blade" "Eventuality Rod" "Vermillion Ring" "Geodesic Ring" "Cogwork Ring" "Rot Head Talisman" "Astrolabe Amulet" "Simplex Amulet" "Mechalarm Belt" "Micro-Distillery Belt" "Stygian Vise"
+	SetBorderColor 175 96 37 255
+	SetFontSize 45
+Show
+	Rarity Unique
+	SetFontSize 45
+Show
+	AnyEnchantment True
+	SetFontSize 45
+Show
+	AlternateQuality True
+	SetFontSize 45
+Show
+	Replica True
+	SetFontSize 45
+Show
+	Corrupted True
+	SetFontSize 45
+Show
+	ElderItem True
+	SetFontSize 45
+Show
+	ShaperItem True
+	SetFontSize 45
+Show
+	HasInfluence Shaper Elder Crusader Hunter Redeemer Warlord
+	SetFontSize 45
+Show
+	FracturedItem True
+	SetFontSize 45
+Show
+	SynthesisedItem True
+	SetFontSize 45
+
+# Armour and weapons
+Hide
+	Class "Claws" "Daggers" "Wands" "Two Hand" "One Hand Swords" "One Hand Maces" "Bows" "Staves" "Quivers" "Sceptres" "Warstaves"
+# Gloves
+Hide
+	BaseType "Rawhide Gloves" "Goathide Gloves" "Gauche Gloves" "Deerskin Gloves" "Nubuck Gloves" "Eelskin Gloves" "Southswing Gloves" "Sharkskin Gloves" "Shagreen Gloves" "Stealth Gloves" "Gripped Gloves" "Sinistral Gloves" "Slink Gloves" "Wool Gloves" "Leyline Gloves" "Velvet Gloves" "Silk Gloves" "Embroidered Gloves" "Aetherwind Gloves" "Satin Gloves" "Samite Gloves" "Conjurer Gloves" "Arcanist Gloves" "Sorcerer Gloves" "Fingerless Silk Gloves" "Nexus Gloves" "Chain Gloves" "Ringmail Gloves" "Mesh Gloves" "Riveted Gloves" "Zealot Gloves" "Soldier Gloves" "Legion Gloves" "Crusader Gloves" "Apothecary's Gloves" "Wrapped Mitts" "Strapped Mitts" "Clasped Mitts" "Trapper Mitts" "Ambush Mitts" "Carnal Mitts" "Assassin's Mitts" "Murder Mitts" "Fishscale Gauntlets" "Ironscale Gauntlets" "Bronzescale Gauntlets" "Steelscale Gauntlets" "Serpentscale Gauntlets" "Wyrmscale Gauntlets" "Hydrascale Gauntlets" "Dragonscale Gauntlets"
+# Boots
+Hide
+	BaseType "Rawhide Boots" "Goathide Boots" "Cloudwhisper Boots" "Deerskin Boots" "Nubuck Boots" "Eelskin Boots" "Sharkskin Boots" "Windbreak Boots" "Shagreen Boots" "Stealth Boots" "Slink Boots" "Stormrider Boots" "Wool Shoes" "Velvet Slippers" "Duskwalk Slippers" "Silk Slippers" "Scholar Boots" "Satin Slippers" "Samite Slippers" "Nightwind Slippers" "Conjurer Boots" "Arcanist Slippers" "Sorcerer Boots" "Dreamquest Slippers" "Chain Boots" "Ringmail Boots" "Mesh Boots" "Riveted Boots" "Zealot Boots" "Soldier Boots" "Legion Boots" "Crusader Boots" "Two-Toned Boots" "Wrapped Boots" "Strapped Boots" "Clasped Boots" "Shackled Boots" "Trapper Boots" "Ambush Boots" "Carnal Boots" "Assassin's Boots" "Murder Boots" "Fugitive Boots" "Two-Toned Boots" "Leatherscale Boots" "Ironscale Boots" "Bronzescale Boots" "Steelscale Boots" "Serpentscale Boots" "Wyrmscale Boots" "Hydrascale Boots" "Dragonscale Boots" "Two-Toned Boots"
+# Armour
+Hide
+	BaseType "Shabby Jerkin" "Strapped Leather" "Buckskin Tunic" "Wild Leather" "Full Leather" "Sun Leather" "Thief's Garb" "Eelskin Tunic" "Frontier Leather" "Glorious Leather" "Coronal Leather" "Cutthroat's Garb" "Sharkskin Tunic" "Destiny Leather" "Exquisite Leather" "Zodiac Leather" "Assassin's Garb" "Simple Robe" "Silken Vest" "Scholar's Robe" "Silken Garb" "Mage's Vestment" "Silk Robe" "Cabalist Regalia" "Sage's Robe" "Silken Wrap" "Conjurer's Vestment" "Spidersilk Robe" "Destroyer Regalia" "Savant's Robe" "Necromancer Silks" "Occultist's Vestment" "Widowsilk Robe" "Vaal Regalia" "Chainmail Vest" "Chainmail Tunic" "Ringmail Coat" "Chainmail Doublet" "Full Ringmail" "Full Chainmail" "Holy Chainmail" "Latticed Ringmail" "Crusader Chainmail" "Ornate Ringmail" "Chain Hauberk" "Devout Chainmail" "Loricated Ringmail" "Conquest Chainmail" "Elegant Ringmail" "Saint's Hauberk" "Saintly Chainmail" "Padded Vest" "Oiled Vest" "Padded Jacket" "Oiled Coat" "Scarlet Raiment" "Waxed Garb" "Bone Armour" "Quilted Jacket" "Sleek Coat" "Crimson Raiment" "Lacquered Garb" "Crypt Armour" "Sentinel Jacket" "Varnished Coat" "Blood Raiment" "Sadist Garb" "Carnal Armour" "Scale Vest" "Light Brigandine" "Scale Doublet" "Infantry Brigandine" "Full Scale Armour" "Soldier's Brigandine" "Field Lamellar" "Wyrmscale Doublet" "Hussar Brigandine" "Full Wyrmscale" "Commander's Brigandine" "Battle Lamellar" "Dragonscale Doublet" "Desert Brigandine" "Full Dragonscale" "General's Brigandine" "Triumphant Lamellar"
+# Helmets
+Hide
+	BaseType "Leather Cap" "Tricorne" "Leather Hood" "Wolf Pelt" "Hunter Hood" "Noble Tricorne" "Ursine Pelt" "Silken Hood" "Sinner Tricorne" "Lion Pelt" "Vine Circlet" "Iron Circlet" "Torture Cage" "Tribal Circlet" "Bone Circlet" "Lunaris Circlet" "Steel Circlet" "Necromancer Circlet" "Solaris Circlet" "Mind Cage" "Hubris Circlet" "Rusted Coif" "Soldier Helmet" "Imp Crown" "Great Helmet" "Crusader Helmet" "Aventail Helmet" "Zealot Helmet" "Demon Crown" "Great Crown" "Magistrate Crown" "Prophet Crown" "Praetor Crown" "Bone Helmet" "Archdemon Crown" "Scare Mask" "Plague Mask" "Gale Crown" "Iron Mask" "Festival Mask" "Golden Mask" "Raven Mask" "Callous Mask" "Winter Crown" "Regicide Mask" "Harlequin Mask" "Vaal Mask" "Deicide Mask" "Blizzard Crown" "Battered Helm" "Sallet" "Sorrow Mask" "Visored Sallet" "Gilded Sallet" "Secutor Helm" "Fencer Helm" "Atonement Mask" "Lacquered Helmet" "Fluted Bascinet" "Pig-Faced Bascinet" "Nightmare Bascinet" "Penitent Mask"
+# Shields
+Hide
+	BaseType "Goathide Buckler" "Pine Buckler" "Painted Buckler" "Hammered Buckler" "War Buckler" "Endothermic Buckler" "Gilded Buckler" "Oak Buckler" "Enameled Buckler" "Corrugated Buckler" "Battle Buckler" "Polar Buckler" "Golden Buckler" "Ironwood Buckler" "Lacquered Buckler" "Vaal Buckler" "Crusader Buckler" "Imperial Buckler" "Cold-attuned Buckler" "Twig Spirit Shield" "Yew Spirit Shield" "Bone Spirit Shield" "Tarnished Spirit Shield" "Jingling Spirit Shield" "Exhausting Spirit Shield" "Brass Spirit Shield" "Walnut Spirit Shield" "Ivory Spirit Shield" "Ancient Spirit Shield" "Chiming Spirit Shield" "Subsuming Spirit Shield" "Thorium Spirit Shield" "Lacewood Spirit Shield" "Fossilised Spirit Shield" "Vaal Spirit Shield" "Harmonic Spirit Shield" "Titanium Spirit Shield" "Transfer-attuned Spirit Shield" "Rotted Round Shield" "Fir Round Shield" "Studded Round Shield" "Scarlet Round Shield" "Splendid Round Shield" "Maple Round Shield" "Spiked Round Shield" "Crimson Round Shield" "Baroque Round Shield" "Teak Round Shield" "Spiny Round Shield" "Cardinal Round Shield" "Elegant Round Shield" "Plank Kite Shield" "Linden Kite Shield" "Reinforced Kite Shield" "Layered Kite Shield" "Ceremonial Kite Shield" "Etched Kite Shield" "Steel Kite Shield" "Laminated Kite Shield" "Angelic Kite Shield" "Branded Kite Shield" "Champion Kite Shield" "Mosaic Kite Shield" "Archon Kite Shield" "Spiked Bundle" "Driftwood Spiked Shield" "Alloyed Spiked Shield" "Burnished Spiked Shield" "Ornate Spiked Shield" "Redwood Spiked Shield" "Compound Spiked Shield" "Polished Spiked Shield" "Sovereign Spiked Shield" "Alder Spiked Shield" "Ezomyte Spiked Shield" "Mirrored Spiked Shield" "Supreme Spiked Shield"
+
+# Rings
+Show
+	BaseType "Coral Ring" "Iron Ring" "Sapphire Ring" "Topaz Ring" "Ruby Ring" "Gold Ring" "Two-Stone Ring" "Amethyst Ring" "Prismatic Ring"
+	SetFontSize 45
+Hide
+	Class "Rings"
+
+# Amulets
+Show
+	BaseType "Coral Amulet" "Paua Amulet" "Lapis Amulet" "Gold Amulet" "Agate Amulet" "Turquoise Amulet" "Onyx Amulet" "Talisman"
+	SetFontSize 45
+Hide
+	Class "Amulets"
+
+# Belts
+Show
+	BaseType "Rustic Sash" "Leather Belt"
+	SetFontSize 45
+Hide
+	Class "Belts"
+
+# Gems
+Show
+	BaseType "Awakened"
+	Class "Gems"
+	SetBorderColor 175 96 37 255
+	SetFontSize 45
+Hide
+	Class "Gems"
+
+# Other
+Show
+	SetFontSize 45
