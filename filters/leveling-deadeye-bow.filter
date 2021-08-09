@@ -96,14 +96,14 @@ Hide
 
 # Rings
 Show
-	BaseType "Coral Ring" "Iron Ring" "Sapphire Ring" "Topaz Ring" "Ruby Ring" "Gold Ring" "Two-Stone Ring" "Amethyst Ring" "Prismatic Ring" "Steel Ring" "Vermillion Ring"
+	BaseType "Coral Ring" "Iron Ring" "Sapphire Ring" "Topaz Ring" "Ruby Ring" "Diamond Ring" "Gold Ring" "Two-Stone Ring" "Amethyst Ring" "Prismatic Ring" "Steel Ring" "Vermillion Ring"
 	SetFontSize 45
 Hide
 	Class "Rings"
 
 # Amulets
 Show
-	BaseType "Amber Amulet" "Lapis Amulet" "Gold Amulet" "Agate Amulet" "Onyx Amulet" "Breakrib Talisman" "Clutching Talisman" "Fangjaw Talisman" "Horned Talisman" "Mandible Talisman" "Monkey Paw Talisman" "Rotfeather Talisman" "Spinefuse Talisman" "Three Rat Talisman" "Writhing Talisman"
+	BaseType "Coral Amulet" "Paua Amulet" "Amber Amulet" "Lapis Amulet" "Gold Amulet" "Agate Amulet" "Onyx Amulet" "Talisman"
 	SetFontSize 45
 Hide
 	Class "Amulets"
