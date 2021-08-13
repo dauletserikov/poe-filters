@@ -74,42 +74,22 @@ Show
 	SetFontSize 45
 
 # Armour and weapons
-Show
-	BaseType "Titan Greaves" "Glorious Plate" "Astral Plate" "Royal Burgonet" "Eternal Burgonet"
-	Rarity Rare
-	SetFontSize 45
 Hide
 	Class "Claws" "Daggers" "Wands" "Swords" "Axes" "Maces" "Bows" "Staves" "Quivers" "Gloves" "Shields" "Sceptres" "Rune Daggers" "Warstaves" "Boots" "Body Armours" "Helmets"
 
 # Rings
-Show
-	BaseType "Coral Ring" "Iron Ring" "Sapphire Ring" "Topaz Ring" "Ruby Ring" "Gold Ring" "Two-Stone Ring" "Amethyst Ring" "Prismatic Ring" "Steel Ring"
-	Rarity Rare
-	SetFontSize 45
 Hide
 	Class "Rings"
 
 # Amulets
-Show
-	BaseType "Lapis Amulet" "Gold Amulet" "Agate Amulet" "Turquoise Amulet" "Onyx Amulet" "Breakrib Talisman" "Fangjaw Talisman" "Longtooth Talisman" "Mandible Talisman" "Rotfeather Talisman" "Spinefuse Talisman" "Three Rat Talisman" "Writhing Talisman"
-	Rarity Rare
-	SetFontSize 45
 Hide
 	Class "Amulets"
 
 # Belts
-Show
-	BaseType "Rustic Sash" "Leather Belt" "Studded Belt"
-	Rarity Rare
-	SetFontSize 45
 Hide
 	Class "Belts"
 
 # Flasks
-Show
-	BaseType "Eternal Life Flask" "Eternal Mana Flask"
-	Rarity Magic
-	SetFontSize 45
 Hide
 	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
 
