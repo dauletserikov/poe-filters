@@ -1,0 +1,87 @@
+# Vendor recipes
+Show
+	SocketGroup >= 3RGB
+	SetBorderColor 255 255 255 255
+	SetFontSize 45
+Show
+	Sockets >= 6
+	SetBorderColor 255 255 255 255
+	SetFontSize 45
+Show
+	Quality >= 20
+	SetBorderColor 0 255 0 255
+	SetFontSize 45
+Show
+	Quality > 0
+	Class "Flasks"
+	SetBorderColor 255 255 255 255
+	SetFontSize 45
+Show
+	Quality > 0
+	Class "Gems"
+	SetBorderColor 255 255 255 255
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Quality >= 20
+	SetBorderColor 0 255 0 255
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Quality >= 16
+	SetBorderColor 255 255 255 255
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Rarity Normal
+	SetBorderColor 255 255 255 255
+	SetFontSize 45
+
+# Unique items
+Show
+	Rarity Unique
+	SetFontSize 45
+
+# Rare bases
+Show
+	BaseType "Taxing Gauntlets" "Gruelling Gauntlets" "Debilitation Gauntlets" "Spiked Gloves" "Gauche Gloves" "Southswing Gloves" "Sinistral Gloves" "Gripped Gloves" "Leyline Gloves" "Aetherwind Gloves" "Nexus Gloves" "Fingerless Silk Gloves" "Apothecary's Gloves" "Golden Bracers" "Runic Gloves" "Runic Gages" "Runic Gauntlets" "Basemetal Treads" "Darksteel Treads" "Brimstone Treads" "Cloudwhisper Boots" "Windbreak Boots" "Stormrider Boots" "Duskwalk Slippers" "Nightwind Slippers" "Dreamquest Slippers" "Fugitive Boots" "Golden Caligae" "Two-Toned Boots" "Runic Greaves" "Runic Sollerets" "Runic Sabatons" "Carnal Armour" "Sacrificial Garb" "Golden Mantle" "Grasping Mail" "Sorrow Mask" "Atonement Mask" "Penitent Mask" "Imp Crown" "Demon Crown" "Archdemon Crown" "Gale Crown" "Winter Crown" "Blizzard Crown" "Golden Wreath" "Golden Visage" "Bone Helmet" "Runic Helm" "Runic Crest" "Runic Crown" "Exothermic Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Endothermic Buckler" "Polar Buckler" "Cold-attuned Buckler" "Exhausting Spirit Shield" "Subsuming Spirit Shield" "Transfer-attuned Spirit Shield"
+	SetBorderColor 255 255 255 255
+	SetFontSize 45
+
+# Armour and weapons
+Hide
+	Class "Claws" "Daggers" "Wands" "Swords" "Axes" "Maces" "Bows" "Staves" "Quivers" "Gloves" "Shields" "Sceptres" "Rune Daggers" "Warstaves" "Boots" "Body Armours" "Helmets"
+
+# Rings
+Hide
+	Class "Rings"
+
+# Amulets
+Hide
+	Class "Amulets"
+
+# Belts
+Hide
+	Class "Belts"
+
+# Flasks
+Show
+    BaseType "Eternal Life Flask" "Eternal Mana Flask" "Hallowed Hybrid Flask"
+    SetFontSize 45
+Hide
+	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
+
+# Gems
+Show
+	AlternateQuality True
+    SetBorderColor 0 255 0 255
+	SetFontSize 45
+Show
+	BaseType "Awakened"
+	Class "Gems"
+	SetBorderColor 0 255 0 255
+	SetFontSize 45
+
+# Other
+Show
+	SetFontSize 45
