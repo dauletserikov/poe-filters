@@ -1,16 +1,16 @@
 POE version: 3.17 Archnemesis
 
 Gloves
-"Taxing Gauntlets" "Gruelling Gauntlets" "Debilitation Gauntlets" "Spiked Gloves" "Gauche Gloves" "Southswing Gloves" "Sinistral Gloves" "Gripped Gloves" "Leyline Gloves" "Aetherwind Gloves" "Nexus Gloves" "Fingerless Silk Gloves" "Apothecary's Gloves" "Golden Bracers" "Runic Gloves" "Runic Gages" "Runic Gauntlets"
+"Taxing Gauntlets" "Gruelling Gauntlets" "Debilitation Gauntlets" "Gauche Gloves" "Southswing Gloves" "Sinistral Gloves" "Leyline Gloves" "Aetherwind Gloves" "Nexus Gloves" "Runic Gloves" "Runic Gages" "Runic Gauntlets"
 
 Boots
-"Basemetal Treads" "Darksteel Treads" "Brimstone Treads" "Cloudwhisper Boots" "Windbreak Boots" "Stormrider Boots" "Duskwalk Slippers" "Nightwind Slippers" "Dreamquest Slippers" "Fugitive Boots" "Golden Caligae" "Two-Toned Boots" "Runic Greaves" "Runic Sollerets" "Runic Sabatons"
+"Basemetal Treads" "Darksteel Treads" "Brimstone Treads" "Cloudwhisper Boots" "Windbreak Boots" "Stormrider Boots" "Duskwalk Slippers" "Nightwind Slippers" "Dreamquest Slippers" "Runic Greaves" "Runic Sollerets" "Runic Sabatons"
 
 Armour
-"Carnal Armour" "Sacrificial Garb" "Golden Mantle" "Grasping Mail"
+"Sacrificial Garb" "Golden Mantle" "Grasping Mail"
 
 Helmets
-"Sorrow Mask" "Atonement Mask" "Penitent Mask" "Imp Crown" "Demon Crown" "Archdemon Crown" "Gale Crown" "Winter Crown" "Blizzard Crown" "Golden Wreath" "Golden Visage" "Bone Helmet" "Runic Helm" "Runic Crest" "Runic Crown"
+"Sorrow Mask" "Atonement Mask" "Penitent Mask" "Imp Crown" "Demon Crown" "Archdemon Crown" "Gale Crown" "Winter Crown" "Blizzard Crown" "Golden Wreath" "Runic Helm" "Runic Crest" "Runic Crown"
 
 Shields
 "Exothermic Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Endothermic Buckler" "Polar Buckler" "Cold-attuned Buckler" "Exhausting Spirit Shield" "Subsuming Spirit Shield" "Transfer-attuned Spirit Shield"
@@ -22,10 +22,10 @@ Daggers
 "Hollowpoint Dagger" "Pressurised Dagger" "Pneumatic Dagger"
 
 Wands
-"Assembler Wand" "Congregator Wand" "Accumulator Wand" "Convoking Wand"
+"Assembler Wand" "Congregator Wand" "Accumulator Wand"
 
 One hand sword
-"Charan's Sword" "Golden Blade" "Fickle Spiritblade" "Capricious Spiritblade" "Anarchic Spiritblade"
+"Charan's Sword" "Fickle Spiritblade" "Capricious Spiritblade" "Anarchic Spiritblade"
 
 One hand axes
 "Maltreatment Axe" "Disapprobation Axe" "Psychotic Axe"
@@ -38,3 +38,24 @@ Sceptres
 
 Rune daggers
 "Flickerflame Blade" "Flashfire Blade" "Infernal Blade"
+
+Bows
+"Hedron Bow" "Foundry Bow" "Solarine Bow"
+
+Staves
+"Transformer Staff" "Reciprocation Staff" "Battery Staff"
+
+Two hand swords
+"Rebuking Blade" "Blasting Blade" "Banishing Blade"
+
+Two hand axes
+"Prime Cleaver" "Honed Cleaver" "Apex Cleaver"
+
+Two hand maces
+"Blunt Force Condenser" "Crushing Force Magnifier" "Impact Force Propagator"
+
+Warstaves
+"Capacity Rod" "Potentiality Rod" "Eventuality Rod"
+
+Fishing rods
+"Fishing Rod"
