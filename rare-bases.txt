@@ -59,3 +59,9 @@ Warstaves
 
 Fishing rods
 "Fishing Rod"
+
+Amulets
+"Ruby Amulet" "Unset Amulet" "Astrolabe Amulet" "Simplex Amulet" "Jet Amulet" "Blue Pearl Amulet" "Marble Amulet" "Seaglass Amulet"
+
+Rings
+"Cogwork Ring" "Geodesic Ring" "Jet Ring" "Steel Ring" "Opal Ring" "Vermillion Ring" "Cerulean Ring" "Iolite Ring" "Breach Ring"
