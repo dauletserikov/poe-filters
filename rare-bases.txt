@@ -65,3 +65,12 @@ Amulets
 
 Rings
 "Cogwork Ring" "Geodesic Ring" "Jet Ring" "Steel Ring" "Opal Ring" "Vermillion Ring" "Cerulean Ring" "Iolite Ring" "Breach Ring"
+
+Belts
+"Micro-Distillery Belt" "Mechalarm Belt" "Vanguard Belt" "Crystal Belt" "Golden Obi" "Stygian Vise"
+
+Jewels
+"Prismatic Jewel" "Timeless Jewel" "Large Cluster Jewel" "Medium Cluster Jewel" "Small Cluster Jewel"
+
+Flasks
+"Iron Flask"
