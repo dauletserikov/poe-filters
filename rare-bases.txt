@@ -25,7 +25,7 @@ Wands
 "Assembler Wand" "Congregator Wand" "Accumulator Wand"
 
 One hand sword
-"Charan's Sword" "Fickle Spiritblade" "Capricious Spiritblade" "Anarchic Spiritblade"
+"Fickle Spiritblade" "Capricious Spiritblade" "Anarchic Spiritblade"
 
 One hand axes
 "Maltreatment Axe" "Disapprobation Axe" "Psychotic Axe"

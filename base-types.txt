@@ -102,3 +102,19 @@ Armour/Energy Shield Shields (Strength/Intelligence)
 
 Energy Shield/Evasion Shields (Dexterity/Intelligence)
 "Spiked Bundle" "Driftwood Spiked Shield" "Alloyed Spiked Shield" "Burnished Spiked Shield" "Ornate Spiked Shield" "Redwood Spiked Shield" "Compound Spiked Shield" "Polished Spiked Shield" "Sovereign Spiked Shield" "Alder Spiked Shield" "Ezomyte Spiked Shield" "Mirrored Spiked Shield" "Supreme Spiked Shield"
+
+--- Quivers
+Level 4: Serrated Arrow Quiver (1-4 Added Physical Damage with Bow Attacks)
+Level 9: Fire Arrow Quiver (3-5 Added Fire Damage with Bow Attacks)
+Level 14: Sharktooth Arrow Quiver (6-8 Life gained for each Enemy Hit by your Attacks)
+Level 20: Feathered Arrow Quiver (20-30% increased Arrow Speed)
+Level 25: Penetrating Arrow Quiver (Arrows Pierce an additional Target)
+Level 31: Blunt Arrow Quiver ((7-9) to (13-16) Added Physical Damage with Bow Attacks)
+Level 36: Two-Point Arrow Quiver (20-30% increased Global Accuracy Rating)
+Level 40: Spike-Point Arrow Quiver (20-30% increased Critical Strike Chance with Bows)
+Level 45: Blazing Arrow Quiver ((12-15) to (24-27) Added Fire Damage with Bow Attacks)
+Level 49: Broadhead Arrow Quiver (8-10% increased Attack Speed)
+Level 55: Vile Arrow Quiver (Gain 10-15% of Physical Damage as Extra Chaos Damage)
+Level 61: Heavy Arrow Quiver ((12-16) to (24-27) Added Physical Damage with Bow Attacks)
+Level 66: Primal Arrow Quiver (20-30% increased Elemental Damage with Attack Skills)
+Level 74: Artillery Quiver (20–30% increased Totem Placement speed)
