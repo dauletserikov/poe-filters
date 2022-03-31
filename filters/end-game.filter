@@ -1,4 +1,4 @@
-# Vendor recipes
+# -Vendor recipes
 Show
 	SocketGroup >= 3RGB
 	SetBorderColor 255 255 255 255
@@ -37,32 +37,113 @@ Show
 	SetBorderColor 255 255 255 255
 	SetFontSize 45
 
-# Unique items
+# -Unique items
 Show
 	Rarity Unique
 	SetFontSize 45
 
-# Rare bases
+# -Weapons
+# --Low chance drop
 Show
-	BaseType "Taxing Gauntlets" "Gruelling Gauntlets" "Debilitation Gauntlets" "Spiked Gloves" "Gauche Gloves" "Southswing Gloves" "Sinistral Gloves" "Gripped Gloves" "Leyline Gloves" "Aetherwind Gloves" "Nexus Gloves" "Fingerless Silk Gloves" "Apothecary's Gloves" "Golden Bracers" "Runic Gloves" "Runic Gages" "Runic Gauntlets" "Basemetal Treads" "Darksteel Treads" "Brimstone Treads" "Cloudwhisper Boots" "Windbreak Boots" "Stormrider Boots" "Duskwalk Slippers" "Nightwind Slippers" "Dreamquest Slippers" "Fugitive Boots" "Golden Caligae" "Two-Toned Boots" "Runic Greaves" "Runic Sollerets" "Runic Sabatons" "Carnal Armour" "Sacrificial Garb" "Golden Mantle" "Grasping Mail" "Sorrow Mask" "Atonement Mask" "Penitent Mask" "Imp Crown" "Demon Crown" "Archdemon Crown" "Gale Crown" "Winter Crown" "Blizzard Crown" "Golden Wreath" "Golden Visage" "Bone Helmet" "Runic Helm" "Runic Crest" "Runic Crown" "Exothermic Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Endothermic Buckler" "Polar Buckler" "Cold-attuned Buckler" "Exhausting Spirit Shield" "Subsuming Spirit Shield" "Transfer-attuned Spirit Shield"
-	SetBorderColor 255 255 255 255
+	BaseType "Shadow Fangs" "Malign Fangs" "Void Fangs" "Hollowpoint Dagger" "Pressurised Dagger" "Pneumatic Dagger" "Assembler Wand" "Congregator Wand" "Accumulator Wand" "Fickle Spiritblade" "Capricious Spiritblade" "Anarchic Spiritblade" "Maltreatment Axe" "Disapprobation Axe" "Psychotic Axe" "Flare Mace" "Crack Mace" "Boom Mace" "Oscillating Sceptre" "Stabilising Sceptre" "Alternating Sceptre" "Flickerflame Blade" "Flashfire Blade" "Infernal Blade" "Hedron Bow" "Foundry Bow" "Solarine Bow" "Transformer Staff" "Reciprocation Staff" "Battery Staff" "Rebuking Blade" "Blasting Blade" "Banishing Blade" "Prime Cleaver" "Honed Cleaver" "Apex Cleaver" "Blunt Force Condenser" "Crushing Force Magnifier" "Impact Force Propagator" "Capacity Rod" "Potentiality Rod" "Eventuality Rod"
 	SetFontSize 45
-
-# Armour and weapons
+# --High level rares
+Show
+	BaseType "Gemini Claw" "Terror Claw" "Imperial Claw" "Vaal Claw" "Eye Gouger" "Hellion's Paw" "Throat Stabber" "Great White Claw" "Sai" "Ambusher" "Gutting Knife" "Convoking Wand" "Profane Wand" "Prophecy Wand" "Tornado Wand" "Opal Wand" "Imbued Wand" "Demon's Horn" "Tiger Hook" "Midnight Blade" "Eternal Sword" "Vaal Blade" "Legion Sword" "Gladius" "Corsair Sword" "Gemstone Sword" "Dragoon Sword" "Harpy Rapier" "Jewelled Foil" "Vaal Rapier" "Spiraled Foil" "Pecoraro" "Tempered Foil" "Dragonbone Rapier" "Runic Hatchet" "Infernal Axe" "Royal Axe" "Vaal Hatchet" "Butcher Axe" "Reaver Axe" "Siege Axe" "Karui Axe" "Behemoth Mace" "Nightmare Mace" "Auric Mace" "Pernach" "Legion Hammer" "Gavel" "Tenderizer" "Ancestral Club" "Sambar Sceptre" "Void Sceptre" "Carnal Sceptre" "Vaal Sceptre" "Platinum Sceptre" "Opal Sceptre" "Tyrant's Sekhem" "Karui Sceptre" "Demon Dagger" "Imperial Skean" "Platinum Kris" "Ezomyte Dagger" "Slaughter Knife" "Maraketh Bow" "Harbinger Bow" "Imperial Bow" "Spine Bow" "Assassin Bow" "Ranger Bow" "Citadel Bow" "Thicket Bow" "Eclipse Staff" "Imperial Staff" "Lathi" "Primordial Staff" "Exquisite Blade" "Infernal Sword" "Lion Sword" "Vaal Greatsword" "Ezomyte Blade" "Reaver Sword" "Headman's Sword" "Fleshripper" "Void Axe" "Despot Axe" "Vaal Axe" "Ezomyte Axe" "Sundering Axe" "Karui Chopper" "Coronal Maul" "Terror Maul" "Imperial Maul" "Meatgrinder" "Piledriver" "Colossus Mallet" "Karui Maul" "Judgement Staff" "Maelström Staff" "Ezomyte Staff"
+	Rarity Rare
+	SetFontSize 45
+# --Hide
 Hide
-	Class "Claws" "Daggers" "Wands" "Swords" "Axes" "Maces" "Bows" "Staves" "Quivers" "Gloves" "Shields" "Sceptres" "Rune Daggers" "Warstaves" "Boots" "Body Armours" "Helmets"
+	Class "Claws" "Daggers" "Wands" "Swords" "Axes" "Maces" "Sceptres" "Bows" "Staves" "Warstaves"
 
-# Rings
+# -Off hand
+# --Low chance drop
+Show
+	BaseType "Exothermic Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Endothermic Buckler" "Polar Buckler" "Cold-attuned Buckler" "Exhausting Spirit Shield" "Subsuming Spirit Shield" "Transfer-attuned Spirit Shield"
+	SetFontSize 45
+# --High level rares
+Show
+	BaseType "Artillery Quiver" "Primal Arrow Quiver" "Heavy Arrow Quiver" "Vile Arrow Quiver" "Broadhead Arrow Quiver" "Blazing Arrow Quiver" "Spike-Point Arrow Quiver" "Two-Point Arrow Quiver" "Penetrating Arrow Quiver" "Feathered Arrow Quiver" "Sharktooth Arrow Quiver" "Pinnacle Tower Shield" "Colossal Tower Shield" "Ezomyte Tower Shield" "Imperial Buckler" "Crusader Buckler" "Vaal Buckler" "Lacquered Buckler" "Titanium Spirit Shield" "Harmonic Spirit Shield" "Vaal Spirit Shield" "Fossilised Spirit Shield" "Elegant Round Shield" "Cardinal Round Shield" "Spiny Round Shield" "Teak Round Shield" "Archon Kite Shield" "Mosaic Kite Shield" "Champion Kite Shield" "Branded Kite Shield" "Supreme Spiked Shield" "Mirrored Spiked Shield" "Ezomyte Spiked Shield"
+	Rarity Rare
+	SetFontSize 45
+# --Hide
 Hide
-	Class "Rings"
+	Class "Quivers" "Shields"
 
-# Amulets
+# -Armour
+# --Low chance drop
+Show
+	BaseType "Taxing Gauntlets" "Gruelling Gauntlets" "Debilitation Gauntlets" "Gauche Gloves" "Southswing Gloves" "Sinistral Gloves" "Leyline Gloves" "Aetherwind Gloves" "Nexus Gloves" "Runic Gloves" "Runic Gages" "Runic Gauntlets" "Basemetal Treads" "Darksteel Treads" "Brimstone Treads" "Cloudwhisper Boots" "Windbreak Boots" "Stormrider Boots" "Duskwalk Slippers" "Nightwind Slippers" "Dreamquest Slippers" "Runic Greaves" "Runic Sollerets" "Runic Sabatons" "Sacrificial Garb" "Grasping Mail" "Sorrow Mask" "Atonement Mask" "Penitent Mask" "Imp Crown" "Demon Crown" "Archdemon Crown" "Gale Crown" "Winter Crown" "Blizzard Crown" "Runic Helm" "Runic Crest" "Runic Crown"
+	SetFontSize 45
+# --High level rares
+Show
+	BaseType "Titan Gauntlets" "Slink Gloves" "Sorcerer Gloves" "Dragonscale Gauntlets" "Crusader Gloves" "Murder Mitts" "Spiked Gloves" "Gripped Gloves" "Fingerless Silk Gloves" "Apothecary's Gloves" "Titan Greaves" "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Crusader Boots" "Murder Boots" "Assassin's Boots" "Two-Toned Boots" "Fugitive Boots" "Glorious Plate" "Astral Plate" "Assassin's Garb" "Zodiac Leather" "Vaal Regalia" "Occultist's Vestment" "Triumphant Lamellar" "General's Brigandine" "Full Dragonscale" "Saintly Chainmail" "Saint's Hauberk" "Carnal Armour" "Sadist Garb" "Blood Raiment" "Eternal Burgonet" "Royal Burgonet" "Lion Pelt" "Hubris Circlet" "Nightmare Bascinet" "Pig-Faced Bascinet" "Fluted Bascinet" "Praetor Crown" "Prophet Crown" "Magistrate Crown" "Deicide Mask" "Vaal Mask" "Bone Helmet"
+	Rarity Rare
+	SetFontSize 45
+# --Hide
+Hide
+	Class "Gloves" "Boots" "Body Armours" "Helmets"
+
+# -Amulets
+# --Low chance drop
+Show
+	BaseType "Ruby Amulet" "Unset Amulet" "Astrolabe Amulet" "Simplex Amulet" "Jet Amulet" "Blue Pearl Amulet" "Marble Amulet" "Seaglass Amulet"
+	SetFontSize 45
+# --Rares
+Show
+	Class "Amulets"
+	Rarity Rare
+	SetFontSize 45
+# --Talismans
+Show
+	Class "Amulets"
+	BaseType "Talisman"
+	SetFontSize 45
+# --Hide
 Hide
 	Class "Amulets"
 
-# Belts
+# -Rings
+# --Low chance drop
+Show
+	BaseType "Cogwork Ring" "Geodesic Ring" "Jet Ring" "Steel Ring" "Opal Ring" "Vermillion Ring" "Cerulean Ring" "Iolite Ring" "Breach Ring"
+	SetFontSize 45
+# --Rares
+Show
+	Class "Rings"
+	Rarity Rare
+	SetFontSize 45
+# --Hide
+Hide
+	Class "Rings"
+
+# -Belts
+# --Low chance drop
+Show
+	BaseType "Micro-Distillery Belt" "Mechalarm Belt" "Vanguard Belt" "Crystal Belt" "Golden Obi" "Stygian Vise"
+	SetFontSize 45
+# --Rares
+Show
+	Class "Belts"
+	Rarity Rare
+	SetFontSize 45
+# --Hide
 Hide
 	Class "Belts"
+
+# -Jewels
+# --Low chance drop
+Show
+	BaseType "Cluster Jewel"
+	SetFontSize 45
+# --Rares
+Show
+	Class "Jewel"
+	Rarity Rare
+	SetFontSize 45
+# --Hide
+Hide
+	Class "Jewel"
 
 # Flasks
 Show
@@ -71,16 +152,19 @@ Show
 Hide
 	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
 
-# Gems
+# -Gems
+# --Low chance drop
+Show
+	BaseType "Awakened" "Empower Support" "Enhance Support" "Enlighten Support" "Portal" "Block Chance Reduction Support" "Elemental Penetration Support" "Vaal"
+	Class "Gems"
+	SetFontSize 45
+# --Alternate quality
 Show
 	AlternateQuality True
-    SetBorderColor 0 255 0 255
 	SetFontSize 45
-Show
-	BaseType "Awakened"
+# --Hide
+Hide
 	Class "Gems"
-	SetBorderColor 0 255 0 255
-	SetFontSize 45
 
 # Other
 Show
