@@ -6,6 +6,40 @@ Show
 	MinimapIcon 1 White Circle
 	SetFontSize 45
 
+# -Low chance drop
+Show
+	Rarity Unique
+	MinimapIcon 0 Brown Star
+	SetFontSize 45
+Show
+	AnyEnchantment True
+	MinimapIcon 1 Yellow Star
+	SetFontSize 45
+Show
+	Replica True
+	MinimapIcon 0 Brown Star
+	SetFontSize 45
+Show
+	ElderItem True
+	MinimapIcon 1 Yellow Star
+	SetFontSize 45
+Show
+	ShaperItem True
+	MinimapIcon 1 Yellow Star
+	SetFontSize 45
+Show
+	HasInfluence Shaper Elder Crusader Hunter Redeemer Warlord
+	MinimapIcon 1 Yellow Star
+	SetFontSize 45
+Show
+	FracturedItem True
+	MinimapIcon 1 Yellow Star
+	SetFontSize 45
+Show
+	SynthesisedItem True
+	MinimapIcon 1 Yellow Star
+	SetFontSize 45
+
 # -Vendor recipes
 Show
 	SocketGroup >= 3RGB
@@ -45,40 +79,6 @@ Show
 	Rarity Normal
 	SetBorderColor 255 255 255 255
 	MinimapIcon 2 White Square
-	SetFontSize 45
-
-# -Low chance drop
-Show
-	Rarity Unique
-	MinimapIcon 0 Brown Star
-	SetFontSize 45
-Show
-	AnyEnchantment True
-	MinimapIcon 1 Yellow Star
-	SetFontSize 45
-Show
-	Replica True
-	MinimapIcon 0 Brown Star
-	SetFontSize 45
-Show
-	ElderItem True
-	MinimapIcon 1 Yellow Star
-	SetFontSize 45
-Show
-	ShaperItem True
-	MinimapIcon 1 Yellow Star
-	SetFontSize 45
-Show
-	HasInfluence Shaper Elder Crusader Hunter Redeemer Warlord
-	MinimapIcon 1 Yellow Star
-	SetFontSize 45
-Show
-	FracturedItem True
-	MinimapIcon 1 Yellow Star
-	SetFontSize 45
-Show
-	SynthesisedItem True
-	MinimapIcon 1 Yellow Star
 	SetFontSize 45
 
 # -Weapons
