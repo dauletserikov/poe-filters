@@ -88,12 +88,7 @@ Show
 	SetBorderColor 175 96 37
 	MinimapIcon 0 Brown Kite
 	SetFontSize 45
-# --High level rares
-Show
-	BaseType "Gemini Claw" "Terror Claw" "Imperial Claw" "Vaal Claw" "Eye Gouger" "Hellion's Paw" "Throat Stabber" "Great White Claw" "Sai" "Ambusher" "Gutting Knife" "Convoking Wand" "Profane Wand" "Prophecy Wand" "Tornado Wand" "Opal Wand" "Imbued Wand" "Demon's Horn" "Tiger Hook" "Midnight Blade" "Eternal Sword" "Vaal Blade" "Legion Sword" "Gladius" "Corsair Sword" "Gemstone Sword" "Dragoon Sword" "Harpy Rapier" "Jewelled Foil" "Vaal Rapier" "Spiraled Foil" "Pecoraro" "Tempered Foil" "Dragonbone Rapier" "Runic Hatchet" "Infernal Axe" "Royal Axe" "Vaal Hatchet" "Butcher Axe" "Reaver Axe" "Siege Axe" "Karui Axe" "Behemoth Mace" "Nightmare Mace" "Auric Mace" "Pernach" "Legion Hammer" "Gavel" "Tenderizer" "Ancestral Club" "Sambar Sceptre" "Void Sceptre" "Carnal Sceptre" "Vaal Sceptre" "Platinum Sceptre" "Opal Sceptre" "Tyrant's Sekhem" "Karui Sceptre" "Demon Dagger" "Imperial Skean" "Platinum Kris" "Ezomyte Dagger" "Slaughter Knife" "Maraketh Bow" "Harbinger Bow" "Imperial Bow" "Spine Bow" "Assassin Bow" "Ranger Bow" "Citadel Bow" "Thicket Bow" "Eclipse Staff" "Imperial Staff" "Lathi" "Primordial Staff" "Exquisite Blade" "Infernal Sword" "Lion Sword" "Vaal Greatsword" "Ezomyte Blade" "Reaver Sword" "Headman's Sword" "Fleshripper" "Void Axe" "Despot Axe" "Vaal Axe" "Ezomyte Axe" "Sundering Axe" "Karui Chopper" "Coronal Maul" "Terror Maul" "Imperial Maul" "Meatgrinder" "Piledriver" "Colossus Mallet" "Karui Maul" "Judgement Staff" "Maelström Staff" "Ezomyte Staff"
-	Rarity Rare
-	MinimapIcon 2 White Kite
-	SetFontSize 45
+# --High level rares - skipped
 # --Hide
 Hide
 	Class "Claws" "Daggers" "Wands" "Swords" "Axes" "Maces" "Sceptres" "Bows" "Staves" "Warstaves"
@@ -105,12 +100,7 @@ Show
 	SetBorderColor 175 96 37
 	MinimapIcon 0 Brown Kite
 	SetFontSize 45
-# --High level rares
-Show
-	BaseType "Artillery Quiver" "Primal Arrow Quiver" "Heavy Arrow Quiver" "Vile Arrow Quiver" "Broadhead Arrow Quiver" "Blazing Arrow Quiver" "Spike-Point Arrow Quiver" "Two-Point Arrow Quiver" "Penetrating Arrow Quiver" "Feathered Arrow Quiver" "Sharktooth Arrow Quiver" "Pinnacle Tower Shield" "Colossal Tower Shield" "Ezomyte Tower Shield" "Imperial Buckler" "Crusader Buckler" "Vaal Buckler" "Lacquered Buckler" "Titanium Spirit Shield" "Harmonic Spirit Shield" "Vaal Spirit Shield" "Fossilised Spirit Shield" "Elegant Round Shield" "Cardinal Round Shield" "Spiny Round Shield" "Teak Round Shield" "Archon Kite Shield" "Mosaic Kite Shield" "Champion Kite Shield" "Branded Kite Shield" "Supreme Spiked Shield" "Mirrored Spiked Shield" "Ezomyte Spiked Shield"
-	Rarity Rare
-	MinimapIcon 2 White Kite
-	SetFontSize 45
+# --High level rares - skipped
 # --Hide
 Hide
 	Class "Quivers" "Shields"
@@ -124,7 +114,7 @@ Show
 	SetFontSize 45
 # --High level rares
 Show
-	BaseType "Titan Gauntlets" "Slink Gloves" "Sorcerer Gloves" "Dragonscale Gauntlets" "Crusader Gloves" "Murder Mitts" "Spiked Gloves" "Gripped Gloves" "Fingerless Silk Gloves" "Apothecary's Gloves" "Titan Greaves" "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Crusader Boots" "Murder Boots" "Assassin's Boots" "Two-Toned Boots" "Fugitive Boots" "Glorious Plate" "Astral Plate" "Assassin's Garb" "Zodiac Leather" "Vaal Regalia" "Occultist's Vestment" "Triumphant Lamellar" "General's Brigandine" "Full Dragonscale" "Saintly Chainmail" "Saint's Hauberk" "Carnal Armour" "Sadist Garb" "Blood Raiment" "Eternal Burgonet" "Royal Burgonet" "Lion Pelt" "Hubris Circlet" "Nightmare Bascinet" "Pig-Faced Bascinet" "Fluted Bascinet" "Praetor Crown" "Prophet Crown" "Magistrate Crown" "Deicide Mask" "Vaal Mask" "Bone Helmet"
+	BaseType "Titan Gauntlets" "Titan Greaves" "Glorious Plate" "Astral Plate" "Eternal Burgonet" "Royal Burgonet"
 	Rarity Rare
 	MinimapIcon 2 White UpsideDownHouse
 	SetFontSize 45
@@ -146,12 +136,7 @@ Show
 	SetBorderColor 175 96 37
 	MinimapIcon 0 Brown Moon
 	SetFontSize 45
-# --Rares
-Show
-	Class "Amulets"
-	Rarity Rare
-	MinimapIcon 2 White Moon
-	SetFontSize 45
+# --Rares - skipped
 # --Hide
 Hide
 	Class "Amulets"
@@ -163,12 +148,7 @@ Show
 	SetBorderColor 175 96 37
 	MinimapIcon 0 Brown Moon
 	SetFontSize 45
-# --Rares
-Show
-	Class "Rings"
-	Rarity Rare
-	MinimapIcon 2 White Moon
-	SetFontSize 45
+# --Rares - skipped
 # --Hide
 Hide
 	Class "Rings"
@@ -180,6 +160,9 @@ Show
 	SetBorderColor 175 96 37
 	MinimapIcon 0 Brown Moon
 	SetFontSize 45
+# --Hide
+Hide
+	BaseType "Chain Belt" "Heavy Belt" "Cloth Belt"
 # --Rares
 Show
 	Class "Belts"
@@ -207,11 +190,7 @@ Show
 Hide
 	Class "Jewel"
 
-# -Flasks
-Show
-    BaseType "Eternal Life Flask" "Eternal Mana Flask" "Hallowed Hybrid Flask"
-	MinimapIcon 2 White Raindrop
-    SetFontSize 45
+# -Flasks - skipped
 Hide
 	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
 

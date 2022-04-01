@@ -1,63 +1,84 @@
 # POE version: 3.17 Archnemesis
 
-# -Vendor recipes
+# -Currency
 Show
-	SocketGroup >= 3RGB
-	SetBorderColor 255 255 255 255
-	SetFontSize 45
-Show
-	Sockets >= 6
-	SetBorderColor 0 255 0 255
-	SetFontSize 45
-Show
-	Quality >= 20
-	SetBorderColor 0 255 0 255
-	SetFontSize 45
-Show
-	Class "Amulets" "Rings" "Belts" "Flasks" "Maps" "Gems"
-	Quality > 0
-	SetBorderColor 255 255 255 255
-	SetFontSize 45
-Show
-	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
-	Quality >= 20
-	SetBorderColor 0 255 0 255
-	SetFontSize 45
-Show
-	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
-	Quality >= 16
-	SetBorderColor 255 255 255 255
-	SetFontSize 45
-Show
-	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
-	Rarity Normal
-	SetBorderColor 255 255 255 255
+	Class "Currency"
+	MinimapIcon 1 White Circle
 	SetFontSize 45
 
 # -Low chance drop
 Show
 	Rarity Unique
+	MinimapIcon 0 Brown Star
 	SetFontSize 45
 Show
 	AnyEnchantment True
+	MinimapIcon 1 Yellow Star
 	SetFontSize 45
 Show
 	Replica True
+	MinimapIcon 0 Brown Star
 	SetFontSize 45
 Show
 	ElderItem True
+	MinimapIcon 1 Yellow Star
 	SetFontSize 45
 Show
 	ShaperItem True
+	MinimapIcon 1 Yellow Star
 	SetFontSize 45
 Show
 	HasInfluence Shaper Elder Crusader Hunter Redeemer Warlord
+	MinimapIcon 1 Yellow Star
 	SetFontSize 45
 Show
 	FracturedItem True
+	MinimapIcon 1 Yellow Star
 	SetFontSize 45
 Show
 	SynthesisedItem True
+	MinimapIcon 1 Yellow Star
+	SetFontSize 45
+
+# -Vendor recipes
+Show
+	SocketGroup >= 3RGB
+	SetBorderColor 255 255 255 255
+	MinimapIcon 2 White Square
+	SetFontSize 45
+Show
+	Sockets >= 6
+	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Square
+	SetFontSize 45
+Show
+	Quality >= 20
+	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Square
+	SetFontSize 45
+Show
+	Class "Amulets" "Rings" "Belts" "Flasks" "Maps" "Gems"
+	Quality > 0
+	SetBorderColor 255 255 255 255
+	MinimapIcon 2 White Square
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Quality >= 20
+	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Square
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Quality >= 16
+	SetBorderColor 255 255 255 255
+	MinimapIcon 2 White Square
+	SetFontSize 45
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Rarity Normal
+	SetBorderColor 255 255 255 255
+	MinimapIcon 2 White Square
 	SetFontSize 45
 
 # -Weapons
@@ -65,11 +86,13 @@ Show
 Show
 	BaseType "Shadow Fangs" "Malign Fangs" "Void Fangs" "Hollowpoint Dagger" "Pressurised Dagger" "Pneumatic Dagger" "Assembler Wand" "Congregator Wand" "Accumulator Wand" "Fickle Spiritblade" "Capricious Spiritblade" "Anarchic Spiritblade" "Maltreatment Axe" "Disapprobation Axe" "Psychotic Axe" "Flare Mace" "Crack Mace" "Boom Mace" "Oscillating Sceptre" "Stabilising Sceptre" "Alternating Sceptre" "Flickerflame Blade" "Flashfire Blade" "Infernal Blade" "Hedron Bow" "Foundry Bow" "Solarine Bow" "Transformer Staff" "Reciprocation Staff" "Battery Staff" "Rebuking Blade" "Blasting Blade" "Banishing Blade" "Prime Cleaver" "Honed Cleaver" "Apex Cleaver" "Blunt Force Condenser" "Crushing Force Magnifier" "Impact Force Propagator" "Capacity Rod" "Potentiality Rod" "Eventuality Rod"
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Kite
 	SetFontSize 45
 # --High level rares
 Show
 	BaseType "Fleshripper" "Void Axe" "Despot Axe" "Vaal Axe" "Ezomyte Axe" "Sundering Axe" "Karui Chopper"
 	Rarity Rare
+	MinimapIcon 2 White Kite
 	SetFontSize 45
 # --Hide
 Hide
@@ -80,6 +103,7 @@ Hide
 Show
 	BaseType "Exothermic Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Endothermic Buckler" "Polar Buckler" "Cold-attuned Buckler" "Exhausting Spirit Shield" "Subsuming Spirit Shield" "Transfer-attuned Spirit Shield"
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Kite
 	SetFontSize 45
 # --High level rares - skipped
 # --Hide
@@ -91,11 +115,13 @@ Hide
 Show
 	BaseType "Taxing Gauntlets" "Gruelling Gauntlets" "Debilitation Gauntlets" "Gauche Gloves" "Southswing Gloves" "Sinistral Gloves" "Leyline Gloves" "Aetherwind Gloves" "Nexus Gloves" "Runic Gloves" "Runic Gages" "Runic Gauntlets" "Basemetal Treads" "Darksteel Treads" "Brimstone Treads" "Cloudwhisper Boots" "Windbreak Boots" "Stormrider Boots" "Duskwalk Slippers" "Nightwind Slippers" "Dreamquest Slippers" "Runic Greaves" "Runic Sollerets" "Runic Sabatons" "Sacrificial Garb" "Grasping Mail" "Sorrow Mask" "Atonement Mask" "Penitent Mask" "Imp Crown" "Demon Crown" "Archdemon Crown" "Gale Crown" "Winter Crown" "Blizzard Crown" "Runic Helm" "Runic Crest" "Runic Crown"
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown UpsideDownHouse
 	SetFontSize 45
 # --High level rares
 Show
 	BaseType "Titan Gauntlets" "Titan Greaves" "Glorious Plate" "Astral Plate" "Eternal Burgonet" "Royal Burgonet"
 	Rarity Rare
+	MinimapIcon 2 White UpsideDownHouse
 	SetFontSize 45
 # --Hide
 Hide
@@ -106,11 +132,14 @@ Hide
 Show
 	BaseType "Ruby Amulet" "Unset Amulet" "Astrolabe Amulet" "Simplex Amulet" "Jet Amulet" "Blue Pearl Amulet" "Marble Amulet" "Seaglass Amulet"
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Moon
 	SetFontSize 45
 # --Talismans
 Show
 	Class "Amulets"
 	BaseType "Talisman"
+	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Moon
 	SetFontSize 45
 # --Hide
 Hide
@@ -119,6 +148,7 @@ Hide
 Show
 	Class "Amulets"
 	Rarity Rare
+	MinimapIcon 2 White Moon
 	SetFontSize 45
 # --Hide
 Hide
@@ -129,6 +159,7 @@ Hide
 Show
 	BaseType "Cogwork Ring" "Geodesic Ring" "Jet Ring" "Steel Ring" "Opal Ring" "Vermillion Ring" "Cerulean Ring" "Iolite Ring" "Breach Ring"
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Moon
 	SetFontSize 45
 # --Hide
 Hide
@@ -137,6 +168,7 @@ Hide
 Show
 	Class "Rings"
 	Rarity Rare
+	MinimapIcon 2 White Moon
 	SetFontSize 45
 # --Hide
 Hide
@@ -147,6 +179,7 @@ Hide
 Show
 	BaseType "Micro-Distillery Belt" "Mechalarm Belt" "Vanguard Belt" "Crystal Belt" "Golden Obi" "Stygian Vise"
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Moon
 	SetFontSize 45
 # --Hide
 Hide
@@ -155,6 +188,7 @@ Hide
 Show
 	Class "Belts"
 	Rarity Rare
+	MinimapIcon 2 White Moon
 	SetFontSize 45
 # --Hide
 Hide
@@ -165,19 +199,22 @@ Hide
 Show
 	BaseType "Cluster Jewel"
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Diamond
 	SetFontSize 45
 # --Rares
 Show
 	Class "Jewel"
 	Rarity Rare
+	MinimapIcon 2 White Diamond
 	SetFontSize 45
 # --Hide
 Hide
 	Class "Jewel"
 
-# Flasks
+# -Flasks
 Show
     BaseType "Eternal Life Flask" "Eternal Mana Flask" "Hallowed Hybrid Flask"
+	MinimapIcon 2 White Raindrop
     SetFontSize 45
 Hide
 	Class "Life Flasks" "Mana Flasks" "Hybrid Flasks"
@@ -188,16 +225,19 @@ Show
 	BaseType "Awakened" "Empower Support" "Enhance Support" "Enlighten Support" "Portal" "Block Chance Reduction Support" "Elemental Penetration Support" "Vaal"
 	Class "Gems"
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Hexagon
 	SetFontSize 45
 # --Alternate quality
 Show
 	AlternateQuality True
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Hexagon
 	SetFontSize 45
 # --High level gems
 Show
 	GemLevel >= 20
 	SetBorderColor 175 96 37
+	MinimapIcon 0 Brown Hexagon
 	SetFontSize 45
 # --Hide
 Hide
