@@ -1,3 +1,5 @@
+# POE version: 3.17 Archnemesis
+
 # -Vendor recipes
 Show
 	SocketGroup >= 3RGB
