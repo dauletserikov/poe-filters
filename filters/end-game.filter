@@ -33,35 +33,27 @@ Show
 	SetFontSize 45
 
 # -Low chance drop
-# --Unique items
 Show
 	Rarity Unique
 	SetFontSize 45
-# --Labyrinth enchanted items
 Show
 	AnyEnchantment True
 	SetFontSize 45
-# --Replicated items
 Show
 	Replica True
 	SetFontSize 45
-# --Elder items
 Show
 	ElderItem True
 	SetFontSize 45
-# --Shaper items
 Show
 	ShaperItem True
 	SetFontSize 45
-# --Influenced items
 Show
 	HasInfluence Shaper Elder Crusader Hunter Redeemer Warlord
 	SetFontSize 45
-# --Fractured items
 Show
 	FracturedItem True
 	SetFontSize 45
-# --Synthesised items
 Show
 	SynthesisedItem True
 	SetFontSize 45
