@@ -5,20 +5,15 @@ Show
 	SetFontSize 45
 Show
 	Sockets >= 6
-	SetBorderColor 255 255 255 255
+	SetBorderColor 0 255 0 255
 	SetFontSize 45
 Show
 	Quality >= 20
 	SetBorderColor 0 255 0 255
 	SetFontSize 45
 Show
+	Class "Amulets" "Rings" "Belts" "Flasks" "Maps" "Gems"
 	Quality > 0
-	Class "Flasks"
-	SetBorderColor 255 255 255 255
-	SetFontSize 45
-Show
-	Quality > 0
-	Class "Gems"
 	SetBorderColor 255 255 255 255
 	SetFontSize 45
 Show
@@ -37,15 +32,45 @@ Show
 	SetBorderColor 255 255 255 255
 	SetFontSize 45
 
-# -Unique items
+# -Low chance drop
+# --Unique items
 Show
 	Rarity Unique
+	SetFontSize 45
+# --Labyrinth enchanted items
+Show
+	AnyEnchantment True
+	SetFontSize 45
+# --Replicated items
+Show
+	Replica True
+	SetFontSize 45
+# --Elder items
+Show
+	ElderItem True
+	SetFontSize 45
+# --Shaper items
+Show
+	ShaperItem True
+	SetFontSize 45
+# --Influenced items
+Show
+	HasInfluence Shaper Elder Crusader Hunter Redeemer Warlord
+	SetFontSize 45
+# --Fractured items
+Show
+	FracturedItem True
+	SetFontSize 45
+# --Synthesised items
+Show
+	SynthesisedItem True
 	SetFontSize 45
 
 # -Weapons
 # --Low chance drop
 Show
 	BaseType "Shadow Fangs" "Malign Fangs" "Void Fangs" "Hollowpoint Dagger" "Pressurised Dagger" "Pneumatic Dagger" "Assembler Wand" "Congregator Wand" "Accumulator Wand" "Fickle Spiritblade" "Capricious Spiritblade" "Anarchic Spiritblade" "Maltreatment Axe" "Disapprobation Axe" "Psychotic Axe" "Flare Mace" "Crack Mace" "Boom Mace" "Oscillating Sceptre" "Stabilising Sceptre" "Alternating Sceptre" "Flickerflame Blade" "Flashfire Blade" "Infernal Blade" "Hedron Bow" "Foundry Bow" "Solarine Bow" "Transformer Staff" "Reciprocation Staff" "Battery Staff" "Rebuking Blade" "Blasting Blade" "Banishing Blade" "Prime Cleaver" "Honed Cleaver" "Apex Cleaver" "Blunt Force Condenser" "Crushing Force Magnifier" "Impact Force Propagator" "Capacity Rod" "Potentiality Rod" "Eventuality Rod"
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --High level rares
 Show
@@ -60,6 +85,7 @@ Hide
 # --Low chance drop
 Show
 	BaseType "Exothermic Tower Shield" "Magmatic Tower Shield" "Heat-attuned Tower Shield" "Endothermic Buckler" "Polar Buckler" "Cold-attuned Buckler" "Exhausting Spirit Shield" "Subsuming Spirit Shield" "Transfer-attuned Spirit Shield"
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --High level rares
 Show
@@ -74,6 +100,7 @@ Hide
 # --Low chance drop
 Show
 	BaseType "Taxing Gauntlets" "Gruelling Gauntlets" "Debilitation Gauntlets" "Gauche Gloves" "Southswing Gloves" "Sinistral Gloves" "Leyline Gloves" "Aetherwind Gloves" "Nexus Gloves" "Runic Gloves" "Runic Gages" "Runic Gauntlets" "Basemetal Treads" "Darksteel Treads" "Brimstone Treads" "Cloudwhisper Boots" "Windbreak Boots" "Stormrider Boots" "Duskwalk Slippers" "Nightwind Slippers" "Dreamquest Slippers" "Runic Greaves" "Runic Sollerets" "Runic Sabatons" "Sacrificial Garb" "Grasping Mail" "Sorrow Mask" "Atonement Mask" "Penitent Mask" "Imp Crown" "Demon Crown" "Archdemon Crown" "Gale Crown" "Winter Crown" "Blizzard Crown" "Runic Helm" "Runic Crest" "Runic Crown"
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --High level rares
 Show
@@ -88,16 +115,17 @@ Hide
 # --Low chance drop
 Show
 	BaseType "Ruby Amulet" "Unset Amulet" "Astrolabe Amulet" "Simplex Amulet" "Jet Amulet" "Blue Pearl Amulet" "Marble Amulet" "Seaglass Amulet"
-	SetFontSize 45
-# --Rares
-Show
-	Class "Amulets"
-	Rarity Rare
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --Talismans
 Show
 	Class "Amulets"
 	BaseType "Talisman"
+	SetFontSize 45
+# --Rares
+Show
+	Class "Amulets"
+	Rarity Rare
 	SetFontSize 45
 # --Hide
 Hide
@@ -107,6 +135,7 @@ Hide
 # --Low chance drop
 Show
 	BaseType "Cogwork Ring" "Geodesic Ring" "Jet Ring" "Steel Ring" "Opal Ring" "Vermillion Ring" "Cerulean Ring" "Iolite Ring" "Breach Ring"
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --Rares
 Show
@@ -121,6 +150,7 @@ Hide
 # --Low chance drop
 Show
 	BaseType "Micro-Distillery Belt" "Mechalarm Belt" "Vanguard Belt" "Crystal Belt" "Golden Obi" "Stygian Vise"
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --Rares
 Show
@@ -135,6 +165,7 @@ Hide
 # --Low chance drop
 Show
 	BaseType "Cluster Jewel"
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --Rares
 Show
@@ -157,10 +188,17 @@ Hide
 Show
 	BaseType "Awakened" "Empower Support" "Enhance Support" "Enlighten Support" "Portal" "Block Chance Reduction Support" "Elemental Penetration Support" "Vaal"
 	Class "Gems"
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --Alternate quality
 Show
 	AlternateQuality True
+	SetBorderColor 175 96 37
+	SetFontSize 45
+# --High level gems
+Show
+	GemLevel >= 20
+	SetBorderColor 175 96 37
 	SetFontSize 45
 # --Hide
 Hide
