@@ -183,7 +183,7 @@ Show
 	SetFontSize 45
 # --Hide
 Hide
-	BaseType "Chain Belt" "Heavy Belt" "Cloth Belt"
+	BaseType "Chain Belt" "Heavy Belt" "Cloth Belt" "Studded Belt"
 # --Rares
 Show
 	Class "Belts"
